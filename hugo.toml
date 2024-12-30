@@ -5,12 +5,12 @@ theme = 'PaperMod'
 
 [[menu.main]]
 identifier = "articles"
-name = "Article"
+name = "Articles"
 url = "/article/"
 weight = 10
 [[menu.main]]
-identifier = "jetlag"
-name = "jetlag"
+identifier = "Jetlag"
+name = "Jetlag"
 url = "/jetlag/"
 weight = 20
 
