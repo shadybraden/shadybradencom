@@ -1,5 +1,5 @@
 +++
-title = 'Website'
+title = 'This Website'
 date = 2024-12-29T20:02:41-05:00
 draft = false
 tags = [ "website","intro","Cloudflare","Hugo" ]
@@ -130,4 +130,4 @@ You should get a success!
 
 I have my domain  (shadybraden.com) setup through cloudflare, so its just a few clicks, then done! see https://shadybraden.com
 
-***Now, whenever i make a commit to this git repo, Cloudflare automatically builds this website and updates it. all for free (minus domain cost)***
+### ***Now, whenever i make a commit to this git repo, Cloudflare automatically builds this website and updates it. all forfree (minus domain cost)***
