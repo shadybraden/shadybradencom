@@ -1,7 +1,7 @@
 baseURL = 'https://shadybraden.com/'
-    languageCode = 'en-us'
-    title = 'shadybraden'
-    theme = 'PaperMod'
+languageCode = 'en-us'
+title = 'shadybraden'
+theme = 'PaperMod'
 
 [[menu.main]]
     name = "Home"
