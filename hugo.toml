@@ -5,9 +5,14 @@ theme = 'PaperMod'
 
 [[menu.main]]
 identifier = "articles"
-name = "Articles"
+name = "Article"
 url = "/article/"
 weight = 10
+[[menu.main]]
+identifier = "jetlag"
+name = "jetlag"
+url = "/jetlag/"
+weight = 20
 
 [params.homeInfoParams]
 Title = "Welcome to my open source blog"
