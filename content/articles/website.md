@@ -2,30 +2,47 @@
 title = 'Website'
 date = 2024-12-29T20:02:41-05:00
 draft = false
-tags = [ "website","intro" ]
+tags = [ "website","intro","Cloudflare","Hugo" ]
 +++
 
 # How i made this website
 
+The goal of this is to have a folder of files I can edit, then upload to GitHub, and have a website built whenever there is a commit.
+
+Steps:
+
 - [Install hugo](#install), and initiate a new site
-- set a theme and make a new folder and the first page!
-- run Hugo locally for testing and viewing changes
-- make a git repo and send it to github
-- setup a domain and Cloudflare pages
+- [Set a theme](#theme)
+- [Make a page](#page)
+- [Run Hugo locally](#run) for testing and viewing changes
+- [Use a git repo](#git) and send it to github for later
+- [Run it on Cloudflare pages](#cloudflare) and connect a domain
+
+---
 
 ## Install
 
-`dnf install hugo`
-go to directory, then `hugo new site ./`
+Install via package manager, ie: `dnf install hugo`
 
-i referenced https://youtu.be/hjD9jTi_DQ4 to get me started
+Choose a directory, then `hugo new site ./`
 
-download a theme, and set it in hugo.toml
+I referenced [this YouTube video](https://youtu.be/hjD9jTi_DQ4) to get me started
 
-to make a new post, or new content, `hugo new article/website.md`
-this makes the md file in the content/posts folder
+---
+## Theme
 
-add an image: `![llama](/img/llama.png "llama")`
+[Download a theme](https://themes.gohugo.io/), and set it in hugo.toml: `theme = 'PaperMod'`
+
+---
+## Page
+
+to make a new post, or new content, `hugo new articles/website.md`
+
+this makes the md file in the content/articles folder
+
+In the file website.md, you can add all kinds of markdown that will be rendered as html later.
+
+For example: add an image: `![llama](/img/llama.png "llama")` or `# headings`
 
 ---
 
@@ -39,21 +56,36 @@ draft = false
 tags = [ "website","intro" ]
 +++
 
-# how i made this website
+# How i made this website
 
+- [Install hugo](#install), and initiate a new site
+- [Set a theme](#theme)
+- [Make a page](#page)
+- run Hugo locally for testing and viewing changes
+- make a git repo and send it to github
+- setup a domain and Cloudflare pages
 
+## Install
 
-`dnf install hugo`
-go to directory, then `hugo new site ./`
+Install via package manager, ie: `dnf install hugo`
 
-i referenced https://youtu.be/hjD9jTi_DQ4 to get me started
+Choose a directory, then `hugo new site ./`
 
-download a theme, and set it in hugo.toml
+I referenced [this YouTube video](https://youtu.be/hjD9jTi_DQ4) to get me started
 
-to make a new post, or new content, `hugo new article/website.md`
-this makes the md file in the content/posts folder
+## Theme
 
-add an image: `![llama](/img/llama.png "llama")`
+[Download a theme](https://themes.gohugo.io/), and set it in hugo.toml: `theme = 'PaperMod'`
+
+## Page
+
+to make a new post, or new content, `hugo new articles/website.md`
+
+this makes the md file in the content/articles folder
+
+In the file website.md, you can add all kinds of markdown that will be rendered as html later.
+
+For example: add an image: `![llama](/img/llama.png "llama")` or `# headings`
 
 ---
 
@@ -61,33 +93,41 @@ so here is what my website.md looks like so far:
 ```
 
 ---
+## Run
 
-tada
+Now, the next step is to get this running somewhere.
 
-now, the next step is to get this running somewhere.
-currently, i am just using `hugo server` and looking at it at localhost:1313
+Run `hugo server` from the directory, and look at it at http://localhost:1313
 
-the goal is to have it so i can make changes to this site locally, test it, then do a git commit to a public git repo, and have the site built from that.
+Now, when you make changes, it will refresh and show here.
 
-so, i need this data stored somewhere, and i need something to run the site.
+---
+## Git
 
-the whole website info is stored in /public (in the hugo folder, run `hugo` and then it will update /public) so only this has to go to the hosting place. i will be uploading my whole hugo folder to git however.
-
-now run  `git init` to start the git repo, and send it to a public git platform. for me it will be here:
+Run `git init` to start the git repo, and send it to a public git platform. for me it will be here:
 https://github.com/shadybraden/site
+
+I also added a `.gitignore` file and added `/public` to it so that the whenever I run `hugo server` locally, Git ignores the changes made in /public
 
 then `git remote add origin https://github.com/shadybraden/site.git`
 `git branch -M main`
 `git push -u origin main`
 
-## how to host it on cloudflare
+Or use a visual Git program (like VSCode)
 
- use https://developers.cloudflare.com/pages/framework-guides/deploy-a-hugo-site/
+Now, whenever you make a normal commit, it will be on GitHub
 
- and make sure to set the env var as HUGO_VERSION to the current version you have locally
+---
+## Cloudflare
 
- you should get a success!
+Now all the files are in my Git repo, now To host the site somewhere publicly.
 
- i have my domain setup through cloudflare, so its just a few clicks, then done! see https://shadybraden.com
+I will be using Cloudflare's own [guide here](https://developers.cloudflare.com/pages/framework-guides/deploy-a-hugo-site/)
 
-## now, whenever i make a commit to this git repo, cloudflare automatically builds this website and updates it. all for free (minus domain cost)
+Basically, follow the steps from [Deploy with Cloudflare Pages](https://developers.cloudflare.com/pages/framework-guides/deploy-a-hugo-site/#deploy-with-cloudflare-pages) and make a new page with `main` as the branch, `hugo` as the command and directory as `public`. Also make sure to set the env var as `HUGO_VERSION` to the current version you have locally (for me it is `0.126.2` (run `hugo version`))
+
+You should get a success!
+
+I have my domain  (shadybraden.com) setup through cloudflare, so its just a few clicks, then done! see https://shadybraden.com
+
+***Now, whenever i make a commit to this git repo, Cloudflare automatically builds this website and updates it. all for free (minus domain cost)***
