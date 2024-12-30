@@ -27,7 +27,7 @@ baseURL = 'https://shadybraden.com/'
     url = "https://github.com/shadybraden"
 [[params.socialIcons]]
     name = "linkedin"
-    url = "https://linkedin.com"
+    url = "https://www.linkedin.com/in/bradenholm"
 
 [params]
     defaultTheme = 'dark'
