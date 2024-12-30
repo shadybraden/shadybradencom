@@ -85,3 +85,5 @@ then `git remote add origin https://github.com/shadybraden/site.git`
  you should get a success!
 
  i have my domain setup through cloudflare, so its just a few clicks, then done! see https://shadybraden.com
+
+## now, whenever i make a commit to this git repo, cloudflare automatically builds this website and updates it. all for free (minus domain cost)
