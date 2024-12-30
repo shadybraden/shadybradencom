@@ -76,15 +76,12 @@ then `git remote add origin https://github.com/shadybraden/site.git`
 `git branch -M main`
 `git push -u origin main`
 
-## how to host it on netlify
+## how to host it on cloudflare
 
-so now the basics of the site exist, now i want to host it publicly. however, for security reasons, i dont want to host it internally, on my own servers.
-so netlify. per the youtube video at the top, its super easy, so lets go!
+ use https://developers.cloudflare.com/pages/framework-guides/deploy-a-hugo-site/
 
-- give netlify access to the git repo
-- tell it the branch
-- build command is `hugo`
-- publish directory is `public`
-- add `Environment variables` as `HUGO_VERSION` = `0.126.2`
+ and make sure to set the env var as HUGO_VERSION to the current version you have locally
 
-deploy!
+ you should get a success!
+
+ i have my domain setup through cloudflare, so its just a few clicks, then done! see https://shadybraden.com
