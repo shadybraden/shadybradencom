@@ -70,7 +70,7 @@ so, i need this data stored somewhere, and i need something to run the site.
 the whole website info is stored in /public (in the hugo folder, run `hugo` and then it will update /public) so only this has to go to the hosting place. i will be uploading my whole hugo folder to git however.
 
 now run  `git init` to start the git repo, and send it to a public git platform. for me it will be here:
-https://github.com/shadyxN8ANacSoBCJzZpjG7LyXNgNfMAbLoME/site
+https://github.com/shadybraden/site
 
 then `git remote add origin https://github.com/shadybraden/site.git`
 `git branch -M main`
