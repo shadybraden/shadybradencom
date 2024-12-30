@@ -44,8 +44,6 @@ In the file website.md, you can add all kinds of markdown that will be rendered 
 
 For example: add an image: `![llama](/img/llama.png "llama")` or `# headings`
 
----
-
 so here is what my website.md looks like so far:
 
 ```
