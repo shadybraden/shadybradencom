@@ -11,7 +11,7 @@ The goal of this is to have a folder of files I can edit, then upload to GitHub,
 
 Steps:
 
-- [Install hugo](#install), and initiate a new site
+- [Install hugo](#install) and initiate a new site
 - [Set a theme](#theme)
 - [Make a page](#page)
 - [Run Hugo locally](#run) for testing and viewing changes
