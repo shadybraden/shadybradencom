@@ -7,13 +7,13 @@ tags = [ "website","intro" ]
 
 # How i made this website
 
-- Install hugo, and initiate a new site
+- [Install hugo](#install), and initiate a new site
 - set a theme and make a new folder and the first page!
 - run Hugo locally for testing and viewing changes
 - make a git repo and send it to github
 - setup a domain and Cloudflare pages
 
-## Install process:
+## Install
 
 `dnf install hugo`
 go to directory, then `hugo new site ./`
