@@ -19,7 +19,7 @@ theme = 'PaperMod'
     weight = 20
 
 [params.homeInfoParams]
-    Title = "Welcome to my open source blog"
+    Title = "Welcome to my open source website"
     Content = "Built with Hugo wooooo"
 
 [[params.socialIcons]]
