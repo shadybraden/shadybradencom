@@ -1,0 +1,24 @@
+baseURL = 'https://shadybraden.com/'
+languageCode = 'en-us'
+title = 'shadybraden'
+theme = 'PaperMod'
+
+[[menu.main]]
+identifier = "articles"
+name = "Articles"
+url = "/article/"
+weight = 10
+
+[params.homeInfoParams]
+Title = "Welcome to my open source blog"
+Content = "Built with Hugo wooooo"
+
+[[params.socialIcons]]
+name = "github"
+url = "https://github.com/shadybraden"
+[[params.socialIcons]]
+name = "linkedin"
+url = "https://linkedin.com"
+
+[params]
+defaultTheme = 'dark'
