@@ -19,7 +19,7 @@ baseURL = 'https://shadybraden.com/'
     weight = 20
 
 [params.homeInfoParams]
-    Title = "Welcome to my open source blog2"
+    Title = "Welcome to my open source blog"
     Content = "Built with Hugo wooooo"
 
 [[params.socialIcons]]
