@@ -1,11 +1,11 @@
 +++
 title = 'Rules'
 date = 2024-12-30T13:44:38-05:00
-draft = true
+draft = false
 tags = [ "jetlag" ]
 +++
 
-### how to play:
+### How to play:
 
 Start at shake shack
 Select one team to be the <mark style="background: #D2B3FFA6;">chasers</mark> and the other the <mark style="background: #FF5582A6;">runners.</mark> (start with 100 coins)

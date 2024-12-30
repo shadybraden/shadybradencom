@@ -15,7 +15,7 @@ Steps:
 - [Set a theme](#theme)
 - [Make a page](#page)
 - [Run Hugo locally](#run) for testing and viewing changes
-- [Use a git repo](#git) and send it to github for later
+- [Use a git repo](#git) and send it to GitHub for later
 - [Run it on Cloudflare pages](#cloudflare) and connect a domain
 
 ---
