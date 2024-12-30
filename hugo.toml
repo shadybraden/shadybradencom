@@ -1,29 +1,33 @@
 baseURL = 'https://shadybraden.com/'
-languageCode = 'en-us'
-title = 'shadybraden'
-theme = 'PaperMod'
+    languageCode = 'en-us'
+    title = 'shadybraden'
+    theme = 'PaperMod'
 
 [[menu.main]]
-identifier = "articles"
-name = "Articles"
-url = "/articles/"
-weight = 10
+    name = "Home"
+    url = "/"
+    weight = 1
 [[menu.main]]
-identifier = "Jetlag"
-name = "Jetlag"
-url = "/jetlag/"
-weight = 20
+    identifier = "articles"
+    name = "Articles"
+    url = "/articles/"
+    weight = 10
+[[menu.main]]
+    identifier = "Jetlag"
+    name = "Jetlag"
+    url = "/jetlag/"
+    weight = 20
 
 [params.homeInfoParams]
-Title = "Welcome to my open source blog"
-Content = "Built with Hugo wooooo"
+    Title = "Welcome to my open source blog"
+    Content = "Built with Hugo wooooo"
 
 [[params.socialIcons]]
-name = "github"
-url = "https://github.com/shadybraden"
+    name = "github"
+    url = "https://github.com/shadybraden"
 [[params.socialIcons]]
-name = "linkedin"
-url = "https://linkedin.com"
+    name = "linkedin"
+    url = "https://linkedin.com"
 
 [params]
-defaultTheme = 'dark'
+    defaultTheme = 'dark'
