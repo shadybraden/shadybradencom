@@ -5,9 +5,24 @@ draft = false
 tags = [ "jetlag" ]
 +++
 
-### How to play:
+# How to play Jetlag(ish)
 
-Start at shake shack
+- [How to start](#start)
+- [Runners](#runners) job
+- [Chasers](#chasers) job
+- Misc [Rules](#rules)
+
+---
+
+## Start
+
+Start at a central point. 
+For Boston, Shake Shack on Washington St is perfect. 
+
+The goal is to earn points. Points are earned by getting to a POI and by returning to the center point.
+
+## Runners
+
 Select one team to be the <mark style="background: #D2B3FFA6;">chasers</mark> and the other the <mark style="background: #FF5582A6;">runners.</mark> (start with 100 coins)
 
 ***one runner shares their location with the chasers.*** 
@@ -17,6 +32,8 @@ Select one team to be the <mark style="background: #D2B3FFA6;">chasers</mark> an
 <mark style="background: #FF5582A6;">runners</mark> goal is to go to *one* of the <mark style="background: #CACFD9A6;">POI's</mark>, then get back (see below) (get a 15 minute head start).
 
 *during this 15 mins, <mark style="background: #FF5582A6;">runners</mark> cannot select a challenge.*
+
+## Chasers
 
 <mark style="background: #D2B3FFA6;">chasers</mark> are just trying to tag the <mark style="background: #FF5582A6;">runners.</mark> 
 
@@ -37,3 +54,6 @@ so if it was 1 mile to the poi, and 2 miles to shake shack, you get 3 points.
 if the runners make it back to shake shack with the item from the POI, they win and get the number of points that is the number of (linear) miles to the POI and back. (i.e. if you got to wegmans (3.8) and get back to shake shack, that would be 7.6 pts).
 
 **if the runners get tagged, then it switches teams right there. the new runners get a 15 minute head start.**
+
+## Rules
+
