@@ -128,4 +128,4 @@ You should get a success!
 
 I have my domain  (shadybraden.com) setup through cloudflare, so its just a few clicks, then done! see https://shadybraden.com
 
-### ***Now, whenever i make a commit to this git repo, Cloudflare automatically builds this website and updates it. all forfree (minus domain cost)***
+### **Now, whenever I make a commit to this git repo, Cloudflare automatically builds this website and updates it. All for free (minus domain cost)**

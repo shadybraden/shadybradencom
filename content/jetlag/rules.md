@@ -23,21 +23,23 @@ The goal is to earn points. Points are earned by getting to a POI and by returni
 
 ## Runners
 
-Select one team to be the <mark style="background: #D2B3FFA6;">chasers</mark> and the other the <mark style="background: #FF5582A6;">runners.</mark> (start with 100 coins)
+Split the group into two teams. Select one team to be the Runners. They start the day with **100 coins**. All other coins must be earned with challenges.
 
-***one runner shares their location with the chasers.*** 
+***One runner shares their location with the other team.*** 
 
-<mark style="background: #FF5582A6;">runners</mark> start with 100 coins
+###### The Runners goal is to go to **one** of the POIs, then get back to the center
 
-<mark style="background: #FF5582A6;">runners</mark> goal is to go to *one* of the <mark style="background: #CACFD9A6;">POI's</mark>, then get back (see below) (get a 15 minute head start).
-
-*during this 15 mins, <mark style="background: #FF5582A6;">runners</mark> cannot select a challenge.*
+When the game starts, the Runners get a 15 minute head start. during this 15 minutes, Runners **cannot** select a challenge
 
 ## Chasers
 
-<mark style="background: #D2B3FFA6;">chasers</mark> are just trying to tag the <mark style="background: #FF5582A6;">runners.</mark> 
+The Chasers are just trying to tag any of the Runners
 
-if ***any*** of the runners get tagged, the run is over. 
+If ***any*** of the runners get tagged, the run is over. 
+
+
+
+
 
 change teams, and start from current location.
 
