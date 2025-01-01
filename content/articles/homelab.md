@@ -1,6 +1,6 @@
 +++
 title = 'HomeLab'
-date = 2024-12-29T20:02:41-05:00
+date = 2024-12-30T20:02:41-05:00
 draft = true
 tags = [ "homelab" ]
 +++
