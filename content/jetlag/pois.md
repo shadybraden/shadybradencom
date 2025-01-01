@@ -6,7 +6,10 @@ draft = false
 
 You can choose which POI anytime and change that decision anytime
 
-| Points: | Location     | Item |
-| ------- | ------------ | ---- |
-| pts     | loc and link | item |
+See [here](https://shadybraden.com/jetlag/rules/#rules) for scoring specifics
+
+| Points: | Location | Item |
+| ------- | -------- | ---- |
+| 4.3     | Location | Item |
+| 2.5     | Location | Item |
 

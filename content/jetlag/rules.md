@@ -27,7 +27,7 @@ Split the group into two teams. Select one team to be the Runners. They start th
 
 ***One runner shares their location with the other team.*** 
 
-###### The Runners goal is to go to **one** of the POIs, then get back to the center
+#### The Runners goal is to go to **one** of the POIs, then get back to the center
 
 When the game starts, the Runners get a 15 minute head start. during this 15 minutes, Runners **cannot** select a challenge
 
