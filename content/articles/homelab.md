@@ -1,8 +1,8 @@
-+++  
-title = 'HomeLab'  
-date = 2025-1-1T20:02:41-05:00  
-draft = false
-tags = [ "homelab" ]  
++++
+title = 'HomeLab'
+date = 2024-12-29T20:02:41-05:00
+draft = true
+tags = [ "homelab" ]
 +++
 
 ## Homelab
