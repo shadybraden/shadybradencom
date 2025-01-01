@@ -5,7 +5,7 @@ draft = false
 tags = [ "jetlag" ]
 +++
 
-# How to play Jetlag(ish)
+## How to play Jetlag(ish)
 
 - [How to start](#start)
 - [Runners](#runners) job
@@ -35,27 +35,15 @@ When the game starts, the Runners get a 15 minute head start. during this 15 min
 
 The Chasers are just trying to tag any of the Runners
 
-If ***any*** of the runners get tagged, the run is over. 
+If **any** of the runners get tagged, the run is over. 
 
-
-
-
-
-change teams, and start from current location.
-
-coins are preserved, so your coin ballance will remain from round to round.
-
-
-*getting to a poi gives you the points listed in the "Points:" column. *
-
-if you go from a random location to the poi, and back to shake shack, then you get the points of the distance traveled (in a line).
-
-so if it was 1 mile to the poi, and 2 miles to shake shack, you get 3 points.
-
-
-if the runners make it back to shake shack with the item from the POI, they win and get the number of points that is the number of (linear) miles to the POI and back. (i.e. if you got to wegmans (3.8) and get back to shake shack, that would be 7.6 pts).
-
-**if the runners get tagged, then it switches teams right there. the new runners get a 15 minute head start.**
+When a tag happens, change teams, and new Runners start from current location.
 
 ## Rules
 
+- Coins are preserved, so your coin ballance will remain from round to round.
+- Getting to a POI gives you the points listed in the "Points" column. Getting back gives you more points
+	- For example: if a POI is 2.1 miles from your starting location, you get 2.1 points once you get to the POI, then if you make it back to the Center, you get the number of points that is the distance from the POI to the center. 
+		- So if the distance from POI to center is 1.8 miles, your score will be 2.1+1.8=**3.9**
+
+**If the runners get tagged, teams switch right there. The new runners get a 15 minute head start, and can't do challenges during this time**
