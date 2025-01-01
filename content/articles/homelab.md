@@ -1,7 +1,7 @@
 +++
 title = 'HomeLab'
 date = 2025-1-1T20:02:41-05:00
-draft = true
+draft = false
 tags = [ "homelab" ]
 +++
 
