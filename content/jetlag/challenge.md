@@ -8,7 +8,6 @@ draft = false
 <html lang="en">
 
 <body style="font-size: 20px; text-align: center;">
-    <h1>Jet Lag(ish)</h1>
         <style>
         .custom-button {
             width: 400px; /* This will make the button bigger */
