@@ -14,7 +14,7 @@ JavaScript button here
   <script>
     document.getElementById("randomChallengeButton").addEventListener("click", function() {
       // Generate a random number between 1 and 100
-      const randomNumber = Math.floor(Math.random() * 95) + 1; //edit the "2)" to set the max value based on the total number of challenges
+      const randomNumber = Math.floor(Math.random() * 95) + 1; //edit the "* #)" to set the max value based on the total number of challenges
 
       // Build the file name based on the random number
       const randomChallengeFile = "challenges/" + randomNumber + ".html";
