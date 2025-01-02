@@ -27,10 +27,10 @@ Click the button to visit a random page:
 <script>
   document.getElementById('random-button').onclick = function() {
     // Generate a random number between 1 and 100
-    const randomNumber = Math.floor(Math.random() * 100) + 1;
+    const randomNumber = Math.floor(Math.random() * 1) + 1;
 
     // Construct the URL for the random page
-    const randomPageUrl = `/website/random/${randomNumber}/`;
+    const randomPageUrl = `/jetlag/random/${randomNumber}/`;
 
     // Redirect to the random page
     window.location.href = randomPageUrl;
