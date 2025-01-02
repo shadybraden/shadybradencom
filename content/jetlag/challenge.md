@@ -16,7 +16,7 @@ Click the button to visit a random page:
     const randomNumber = Math.floor(Math.random() * 100) + 1;
 
     // Construct the URL for the random page
-    const randomPageUrl = `/website/random/${randomNumber}/`;
+    const randomPageUrl = `/jetlag/random/${randomNumber}/`;
 
     // Redirect to the random page
     window.location.href = randomPageUrl;
