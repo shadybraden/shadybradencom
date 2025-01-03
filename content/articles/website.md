@@ -1,9 +1,13 @@
-+++
-title = 'This Website'
-date = 2024-12-29T20:02:41-05:00
-draft = false
-tags = [ "website","intro","Cloudflare","Hugo" ]
-+++
+---
+date: "2024-12-29T20:02:41-05:00"
+draft: false
+tags:
+- website
+- intro
+- Cloudflare
+- Hugo
+title: This Website
+---
 
 ## How I made this Website
 
