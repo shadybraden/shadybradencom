@@ -1,5 +1,6 @@
 ---
 title: Random button
+draft: false
 ---
 
 ## press for random page
