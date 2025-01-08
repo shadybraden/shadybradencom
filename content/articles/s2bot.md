@@ -1,3 +1,16 @@
+---
+date: 2025-01-07T20:02:41-05:00
+draft: true
+tags:
+  - api
+  - bot
+  - telegram
+  - mastodon
+  - fediverse
+title: guide1
+---
+
+
 To create a Python program that monitors a Telegram channel and posts any message from that channel to a Mastodon account, you need to interact with both Telegram's API (using a library like `python-telegram-bot` or `telethon`) and Mastodon's API.
 
 ### Steps for this:
