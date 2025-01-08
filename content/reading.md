@@ -6,7 +6,7 @@ title: 2025 Reading
 - [x] Mt 1–2
 - [x] Mt 3–4
 	- facinating how much happens so fast in these early chapters. He is already baptized, tempted and has the first diciples. Note the many uses of the word "immediately"
-- [ ] Mt 5
+- [x] Mt 5
 - [ ] Mt 6
 - [ ] Mt 7
 ###### 01/13/25
