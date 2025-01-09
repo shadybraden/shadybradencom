@@ -22,6 +22,8 @@
         {{- block "main" . }}{{ end }}
     </main>
     {{ partialCached "footer.html" . .Layout .Kind (.Param "hideFooter") (.Param "ShowCodeCopyButtons") -}}
-</body>
+<script src="{{ "js/highlight.js" | relURL }}"></script>
+
+    </body>
 
 </html>
