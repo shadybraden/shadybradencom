@@ -7,7 +7,8 @@ title: 2025 Reading
 - [x] Mt 3–4
 	- facinating how much happens so fast in these early chapters. He is already baptized, tempted and has the first diciples. Note the many uses of the word "immediately"
 - [x] Mt 5
-- [ ] Mt 6
+- [x] Mt 6
+	- be humble, and rely on God
 - [ ] Mt 7
 ###### 01/13/25
 - [ ] Mt 8
