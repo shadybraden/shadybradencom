@@ -9,7 +9,7 @@ title: 2025 Reading
 - [x] Mt 5
 - [x] Mt 6
 	- be humble, and rely on God
-- [ ] Mt 7
+- [x] Mt 7
 ###### 01/13/25
 - [ ] Mt 8
 - [ ] Mt 9
