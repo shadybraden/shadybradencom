@@ -12,11 +12,11 @@ theme = 'PaperMod'
     name = "Articles"
     url = "/articles/"
     weight = 10
-[[menu.main]]
-    identifier = "Jetlag"
-    name = "Jetlag"
-    url = "/jetlag/"
-    weight = 20
+#[[menu.main]]
+#    identifier = "Jetlag"
+#    name = "Jetlag"
+#    url = "/jetlag/"
+#    weight = 20
 
 [params.homeInfoParams]
     Title = "Welcome to my open source website"
