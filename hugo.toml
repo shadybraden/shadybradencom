@@ -35,3 +35,4 @@ theme = 'PaperMod'
     name = 's2underground'
 [outputs]
     articles = ['html', 'rss']
+    wire = ['html', 'rss']
