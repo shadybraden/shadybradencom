@@ -31,8 +31,7 @@ theme = 'PaperMod'
 
 [params]
     defaultTheme = 'dark'
-  [params.author]
-    name = 's2underground'
+
 [outputs]
     articles = ['html', 'rss']
     wire = ['html', 'rss']
