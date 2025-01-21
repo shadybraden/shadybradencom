@@ -14,11 +14,12 @@ title: 2025 Reading
 - [x] Mt 8
 - [x] Mt 9
 - [x] Mt 10
-- [ ] Mt 11
-- [ ] Mt 12
+- [x] Mt 11
+- [x] Mt 12
 ###### 01/20/25
-- [ ] Mt 13
-- [ ] Mt 14
+- [x] Mt 13
+	- many things happen with a partial purpose of fulfilling prophecies (not just for teaching)
+- [x] Mt 14
 - [ ] Mt 15
 - [ ] Mt 16–17
 - [ ] Mt 18
