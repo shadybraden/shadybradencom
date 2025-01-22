@@ -20,7 +20,8 @@ title: 2025 Reading
 - [x] Mt 13
 	- many things happen with a partial purpose of fulfilling prophecies (not just for teaching)
 - [x] Mt 14
-- [ ] Mt 15
+- [x] Mt 15
+	- v.28 has the second time that Jesus says someone has notable faith
 - [ ] Mt 16–17
 - [ ] Mt 18
 ###### 01/27/25
