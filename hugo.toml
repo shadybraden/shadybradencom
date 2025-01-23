@@ -28,6 +28,9 @@ theme = 'PaperMod'
 [[params.socialIcons]]
     name = "linkedin"
     url = "https://www.linkedin.com/in/bradenholm"
+[[params.socialIcons]]
+    name = "pixelfed"
+    url = "https://pixelfed.social/shadybraden"
 
 [params]
     defaultTheme = 'dark'

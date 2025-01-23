@@ -22,7 +22,8 @@ title: 2025 Reading
 - [x] Mt 14
 - [x] Mt 15
 	- v.28 has the second time that Jesus says someone has notable faith
-- [ ] Mt 16–17
+- [x] Mt 16–17
+	- Peter goes quickly from saying Jesus is the Messiah to telling Jesus what to do
 - [ ] Mt 18
 ###### 01/27/25
 - [ ] Mt 19
