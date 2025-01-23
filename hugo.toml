@@ -31,6 +31,9 @@ theme = 'PaperMod'
 [[params.socialIcons]]
     name = "pixelfed"
     url = "https://pixelfed.social/shadybraden"
+[[params.socialIcons]]
+    name = "bluesky"
+    url = "https://bsky.app/profile/shadybraden.com"
 
 [params]
     defaultTheme = 'dark'
