@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="">
+  <head>
+    <meta charset="utf-8">
+    <title></title>
+  </head>
+  <body style="font-size: 20px; text-align: center;">
+    <header></header>
+    <main>
+
+<h1>Jetlag(ish)</h1>
+<a href="rules">Rules</a> | <a href="pois/">POI's</a> | <a href="trains/">Train info</a> | <a href="shop/">Shop</a><br><br>
+
+<style>
+    .random-button {
+        padding: 20px 40px;
+        font-size: 1.5rem;
+        background-color: #2b772e;
+        color: white;
+        border: none;
+        border-radius: 25px;
+        cursor: pointer;
+        transition: background-color 0.3s;
+    }
+    .random-button:hover {
+        background-color: rgb(23, 85, 27);
+    }
+    .random-button:active {
+        background-color: #5b2c1e;
+    }
+</style>
+
+<button class="random-button" onclick="navigateToRandomNumberPage()">
+    Random Challenge
+</button>
+
+<script>
+    function navigateToRandomNumberPage() {
+        const max = 94;
+        const min = 1;
+        const randomNumber = Math.floor(Math.random() * (max - min + 1)) + min;
+        window.location.href = `/challenge/${randomNumber}`;
+    }
+</script>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+</main>
+    <footer></footer>
+  </body>
+</html>
