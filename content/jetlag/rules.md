@@ -3,6 +3,7 @@ draft: false
 tags:
 - jetlag
 title: Rules
+weight: 7
 ---
 
 ## How to play Jetlag(ish)
