@@ -12,15 +12,15 @@ theme = 'PaperMod'
     name = "Articles"
     url = "/articles/"
     weight = 10
-#[[menu.main]]
-#    identifier = "Jetlag"
-#    name = "Jetlag"
-#    url = "/jetlag/"
-#    weight = 20
+[[menu.main]]
+    identifier = "Jetlag"
+    name = "Jetlag(ish)"
+    url = "/jetlag/"
+    weight = 20
 
 [params.homeInfoParams]
     Title = "Welcome to my open source website"
-    Content = "Built with Hugo wooooo"
+    Content = "Built with Hugo and running on Cloudflare"
 
 [[params.socialIcons]]
     name = "github"
@@ -37,6 +37,8 @@ theme = 'PaperMod'
 
 [params]
     defaultTheme = 'dark'
+    favicon = "/favicon.ico"
+    mainSections = ["articles"]
 
 [outputs]
     articles = ['html', 'rss']
