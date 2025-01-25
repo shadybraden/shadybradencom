@@ -65,4 +65,4 @@ When a tag happens, change teams, and new Runners start from current location.
 
 The app [Organic Maps](https://organicmaps.app/) makes measuring distance linearly easy
 
-![poi](/pois_drawing.png "POI Drawing")
+![poi](/pois_drawing2.png "POI Drawing")
