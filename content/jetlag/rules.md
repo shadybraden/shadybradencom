@@ -12,6 +12,7 @@ weight: 7
 - [Runners](#runners) job
 - [Chasers](#chasers) job
 - Misc [Rules](#rules)
+- [Points](#points) and scoring
 
 ---
 
@@ -28,7 +29,7 @@ Split the group into two teams. Select one team to be the Runners. They start th
 
 ***One runner shares their location with the other team.*** 
 
-#### The Runners goal is to go to **one** of the POIs, then get back to the center
+### The Runners goal is to go to **one** of the POIs, then get back to the Center
 
 When the game starts, the Runners get a 15 minute head start. during this 15 minutes, Runners **cannot** select a challenge
 
@@ -43,8 +44,25 @@ When a tag happens, change teams, and new Runners start from current location.
 ## Rules
 
 - Coins are preserved, so your coin ballance will remain from round to round.
-- Getting to a POI gives you the points listed in the "Points" column. Getting back gives you more points
-	- For example: if a POI is 2.1 miles from your starting location, you get 2.1 points once you get to the POI, then if you make it back to the Center, you get the number of points that is the distance from the POI to the center. 
-		- So if the distance from POI to center is 1.8 miles, your score will be 2.1+1.8=**3.9**
+- On a tag, roles switch, and the new runners get a 15 minute head start, but cannot do challenges during this time.
+- Both teams start with 100 coins, then have to use challenges to earn more.
+	- Only the Runners have to use coins to travel
 
-**If the runners get tagged, teams switch right there. The new runners get a 15 minute head start, and can't do challenges during this time**
+## Points
+
+- Points:
+	- See the drawing below.
+	- If Red goes from the Center to POI(1) they get 1.5 points.
+		- If they get really close to POI(1) but don't make it, 0 points
+	- Then they can try to get back to the Center.
+	- They get points based on how many miles they make it.
+		- In the drawing, they make it 1 mile, but don't get to the center, so they get 1 point
+		- Red gets 1.5+1 = ***2.5 points***
+	- Now Green starts, but they start from where Red got tagged.
+		- They make it to POI(2) so get the number of points that is the distance ***LINEARLY*** or 2 points
+		- Then they make it back to the Center, so they get that distance in points
+		- Green gets 2+3 = ***5 points***
+
+The app [Organic Maps](https://organicmaps.app/) makes measuring distance linearly easy
+
+![poi](/pois_drawing.png "POI Drawing")

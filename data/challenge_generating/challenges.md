@@ -44,9 +44,9 @@ PICKLE - Quick-pickle any vegetable using vinegar, salt and water. Your vegetabl
 160 pts
 DESECRATE RAVIOLI - Acquire ravioli and Oreos. Swap the filling of at least one raviolo and one Oreo, and eat the entirety of both your creations.
 180 pts
-BURN THIS CARD - This card must be burnt within 5 minutes of pulling it. If you fail to burn this card within five minutes, it is vetoed. This card does not need to be entirely burned, but it must be on fire at some point within the time limit. 
+BURN THIS CARD (if no physical card, find something similar)- This card must be burnt within 5 minutes of pulling it. If you fail to burn this card within five minutes, it is vetoed. This card does not need to be entirely burned, but it must be on fire at some point within the time limit. 
 200 pts
-EAT THIS CARD
+EAT THIS CARD (if no physical card, find something similar)
 150 pts
 CREATE A DISPUTATION ON THE POWER AND EFFICACY OF INDULGENCES - Write down 95 of your opinions on paper. The average word count of your opinions must be at least 5. Each option must be unique and distinct from all previous opinions. Publicly recite all opinions.
 230 pts
@@ -108,7 +108,7 @@ Eat good - eat one of an oponent's favorite foods
 250 pts
 Praise the ugliest building - Travel to the ugliest building within half a mile. List three things that you love about it while standing a maximum of 300 feet away from it
 130 pts
-Ship/mail this card to the Hebert's new place
+Ship/mail this card to the a oponents residence
 100 pts
 Shoot a bullseye (anything with anything)
 100 pts

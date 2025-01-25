@@ -6,8 +6,18 @@ title: Train info
 weight: 10
 ---
 
-## [MBTA](https://www.mbta.com/)
+## [MBTA](https://www.mbta.com/) (boston)
 
+Recomended to buy 1-day pass for subway
 
-## NY trainz
+[map of all](https://cdn.mbta.com/sites/default/files/2024-12/2024-12-15-commuter-rail-map-v41a.pdf) --- [map of subway](https://cdn.mbta.com/sites/default/files/2024-12/2024-12-15-subway-map.pdf) 
+
+| Line   | INFO                                                   | timetable                                                    |
+| ------ | ------------------------------------------------------ | ------------------------------------------------------------ |
+| GREEN  | [all info](https://www.mbta.com/schedules/Green/)      |                                                              |
+| ORANGE | [all info](https://www.mbta.com/schedules/Orange/line) | [timetable](https://www.mbta.com/schedules/Orange/timetable) |
+| RED    | [all info](https://www.mbta.com/schedules/Red/line)    | [timetable](https://www.mbta.com/schedules/Red/timetable)    |
+| BLUE   | [all info](https://www.mbta.com/schedules/Blue/line)   | [timetable](https://www.mbta.com/schedules/Blue/timetable)   |
+
+## [MTA](https://mta.info/) (new york)
 

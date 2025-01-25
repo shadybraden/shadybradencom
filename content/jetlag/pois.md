@@ -8,7 +8,9 @@ weight: 9
 
 You can choose which POI anytime and change that decision anytime
 
-See [here](https://shadybraden.com/jetlag/rules) for scoring specifics
+See [here](https://shadybraden.com/jetlag/rules/#points) for scoring specifics
+
+## Boston POIs:
 
  Points: | Location                                                                        | Item                                                                                                                                                                                                                                                    |
 | ------- | ------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -34,4 +36,10 @@ See [here](https://shadybraden.com/jetlag/rules) for scoring specifics
 
 [Google maps list of POI's](https://maps.app.goo.gl/Qb7NLmim2nmnsR4L8)
 
-![poi](/poi.png "llama")
+![poi](/poi.png "POI's")
+
+## New York POIs:
+
+| Points: | Location | Item |
+| ------- | -------- | ---- |
+|         |          |      |
