@@ -6,8 +6,8 @@ title: POIs
 weight: 9
 ---
 
-- [[#Boston POIs]] 
-- [[#New York POIs]]
+- [Boston POIs](#boston-pois)
+- [New York POIs](#new-york-pois)
 
 You can choose which POI anytime and change that decision anytime
 
