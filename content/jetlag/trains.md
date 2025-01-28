@@ -5,7 +5,7 @@ tags:
 title: Train info
 weight: 10
 ---
-- [Boston](#mbta-boston)
+- [Boston](#[mbta](https://www.mbta.com/) (boston))
 - [New York](#mta-new-york)
 
 ## [MBTA](https://www.mbta.com/) (Boston)
