@@ -8,7 +8,7 @@ weight: 7
 
 ## How to play Jetlag(ish)
 
-- [[#Starting]] | [Starting](#Starting) | [[rules#Starting]]
+- [[#Starting]] | [Starting](#starting) | [[rules#Starting]]
 - The [[#Runners]] Job
 - The [[#Chasers]] Job
 - Misc [[#Rules]]
