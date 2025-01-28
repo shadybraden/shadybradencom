@@ -25,19 +25,19 @@ The goal is to earn points. Points are earned by getting to a POI and by returni
 
 ## Runners
 
-Split the group into two teams. Select one team to be the Runners. They start the day with **100 coins**. All other coins must be earned with challenges.
+Split the group into two teams. Select one team to be the Runners. They start the game with **100 coins**. All other coins must be earned with challenges.
 
 ***One runner shares their location with the other team.*** 
 
 ### The Runners goal is to go to **one** of the POIs, then get back to the Center
 
-When the game starts, the Runners get a 15 minute head start. during this 15 minutes, Runners **cannot** select a challenge
+###### When the game starts, the Runners get a 15 minute head start. during this 15 minutes, Runners **cannot** select a challenge
 
 ## Chasers
 
 The Chasers are just trying to tag any of the Runners
 
-If **any** of the runners get tagged, the run is over. 
+###### If **any** of the runners get tagged, the run is over. 
 
 When a tag happens, change teams, and new Runners start from current location.
 
