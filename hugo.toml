@@ -42,4 +42,3 @@ theme = 'PaperMod'
 
 [outputs]
     articles = ['html', 'rss']
-    wire = ['html', 'rss']

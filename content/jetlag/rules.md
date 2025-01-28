@@ -8,15 +8,15 @@ weight: 7
 
 ## How to play Jetlag(ish)
 
-- [How to start](#start)
-- [Runners](#runners) job
-- [Chasers](#chasers) job
-- Misc [Rules](#rules)
-- [Points](#points) and scoring
+- [[#Starting out]] 
+- The [[#Runners]] Job
+- The [[#Chasers]] Job
+- Misc [[#Rules]] 
+- [[#Points]] and scoring
 
 ---
 
-## Start
+## Starting out
 
 Start at a central point. 
 For Boston, Shake Shack on Washington St is perfect. 
