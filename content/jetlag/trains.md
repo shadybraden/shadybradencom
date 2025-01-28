@@ -5,8 +5,10 @@ tags:
 title: Train info
 weight: 10
 ---
+- [Boston](#mbta-boston)
+- [New York](#mta-new-york)
 
-## [MBTA](https://www.mbta.com/) (boston)
+## [MBTA](https://www.mbta.com/) (Boston)
 
 Recomended to buy 1-day pass for subway
 
@@ -19,5 +21,5 @@ Recomended to buy 1-day pass for subway
 | RED    | [all info](https://www.mbta.com/schedules/Red/line)    | [timetable](https://www.mbta.com/schedules/Red/timetable)    |
 | BLUE   | [all info](https://www.mbta.com/schedules/Blue/line)   | [timetable](https://www.mbta.com/schedules/Blue/timetable)   |
 
-## [MTA](https://mta.info/) (new york)
+## [MTA](https://mta.info/) (New York)
 
