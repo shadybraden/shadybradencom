@@ -26,9 +26,9 @@ title: 2025 Reading
 	- Peter goes quickly from saying Jesus is the Messiah to telling Jesus what to do
 - [x] Mt 18
 #### 01/27/25
-- [ ] Mt 19
-- [ ] Mt 20
-- [ ] Mt 21
+- [x] Mt 19
+- [x] Mt 20
+- [x] Mt 21
 - [ ] Mt 22
 - [ ] Mt 23
 #### 02/03/25
