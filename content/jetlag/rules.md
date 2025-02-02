@@ -16,6 +16,8 @@ weight: 7
 
 ---
 
+Note: where any dispute or question about the rules occurs, the spirit of the [Official Jet Lag the Game](https://www.youtube.com/c/jetlagthegame) (or player consensus) rules.
+
 ## Starting out
 
 Start at a central point. 

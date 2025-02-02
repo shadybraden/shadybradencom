@@ -29,8 +29,8 @@ title: 2025 Reading
 - [x] Mt 19
 - [x] Mt 20
 - [x] Mt 21
-- [ ] Mt 22
-- [ ] Mt 23
+- [x] Mt 22
+- [x] Mt 23
 #### 02/03/25
 - [ ] Mt 24
 - [ ] Mt 25
