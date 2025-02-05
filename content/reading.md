@@ -36,7 +36,7 @@ title: 2025 Reading
 	- endtimes prophecies and charges
 - [x] Mt 25
 	- parables about endtimes
-- [ ] Mt 26
+- [x] Mt 26
 - [ ] Mt 27
 - [ ] Mt 28–Mk 1
 #### 02/10/25
