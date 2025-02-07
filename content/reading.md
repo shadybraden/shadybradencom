@@ -37,8 +37,8 @@ title: 2025 Reading
 - [x] Mt 25
 	- parables about endtimes
 - [x] Mt 26
-- [ ] Mt 27
-- [ ] Mt 28–Mk 1
+- [x] Mt 27
+- [x] Mt 28–Mk 1
 #### 02/10/25
 - [ ] Mk 2
 - [ ] Mk 3
