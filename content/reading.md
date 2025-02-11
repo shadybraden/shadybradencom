@@ -40,8 +40,8 @@ title: 2025 Reading
 - [x] Mt 27
 - [x] Mt 28–Mk 1
 #### 02/10/25
-- [ ] Mk 2
-- [ ] Mk 3
+- [x] Mk 2
+- [x] Mk 3
 - [ ] Mk 4
 - [ ] Mk 5
 - [ ] Mk 6
