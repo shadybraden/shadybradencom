@@ -1,6 +1,5 @@
 # This is the source for my website
 
-
 # updating
 
 update the site by editing the content in /content then running `hugo`
