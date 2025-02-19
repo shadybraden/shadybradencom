@@ -11,9 +11,13 @@ weight: 7
 <details>
 
 - [Starting out](#starting-out)
+
 - The [Runners](#runners) Job
+
 - The [Chasers](#chasers) Job
+
 - Misc [Rules](#rules)
+
 - [Points](#points) and scoring
 
 </details>
