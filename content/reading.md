@@ -44,7 +44,7 @@ title: 2025 Reading
 - [x] Mk 3
 - [x] Mk 4
 - [x] Mk 5
-- [ ] Mk 6
+- [x] Mk 6
 #### 02/17/25
 - [ ] Mk 7
 - [ ] Mk 8
