@@ -6,13 +6,17 @@ title: Rules
 weight: 7
 ---
 
-## How to play Jetlag(ish)
+# How to play Jetlag(ish)
+
+<details>
 
 - [Starting out](#starting-out)
 - The [Runners](#runners) Job
 - The [Chasers](#chasers) Job
 - Misc [Rules](#rules)
 - [Points](#points) and scoring
+
+</details>
 
 ---
 
