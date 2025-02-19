@@ -13,7 +13,7 @@ title: This Website
 
 The goal of this is to have a folder of files I can edit, then upload to GitHub, and have a website built whenever there is a commit.
 
-Steps :
+Steps: 
 
 - [Install hugo](#install) and initiate a new site
 - [Set a theme](#theme)
