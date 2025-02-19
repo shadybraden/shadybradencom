@@ -15,6 +15,7 @@ weight: 10
 Recomended to buy 1-day pass for subway
 
 [map of all](https://cdn.mbta.com/sites/default/files/2024-12/2024-12-15-commuter-rail-map-v41a.pdf) --- [map of subway](https://cdn.mbta.com/sites/default/files/2024-12/2024-12-15-subway-map.pdf) 
+
 [Commuter trains](https://www.mbta.com/schedules/commuter-rail) 
 
 | Line   | INFO                                                   | timetable                                                    |
