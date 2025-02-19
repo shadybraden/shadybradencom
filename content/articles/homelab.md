@@ -13,3 +13,5 @@ A homelab is any number of computers doing any task for their admin, at home. Tr
 ---
 
 More coming...
+
+https://github.com/shadybraden/homelab
