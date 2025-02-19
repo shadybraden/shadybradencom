@@ -13,7 +13,7 @@ title: This Website
 
 The goal of this is to have a folder of files I can edit, then upload to GitHub, and have a website built whenever there is a commit.
 
-Steps: 
+Steps:
 
 - [Install hugo](#install) and initiate a new site
 - [Set a theme](#theme)
@@ -51,7 +51,6 @@ For example: add an image: `![llama](/img/llama.png "llama")` or `# headings`
 so here is what my website.md looks like so far:
 
 ```
-+++
 ---
 date: "2024-12-29T20:02:41-05:00"
 draft: false
@@ -63,7 +62,7 @@ tags:
 title: This Website
 ---
 
-## How I made this Website
+## How I made this Website 
 
 The goal of this is to have a folder of files I can edit, then upload to GitHub, and have a website built whenever there is a commit.
 
