@@ -9,7 +9,7 @@ tags:
 title: This Website
 ---
 
-## How I made this Website 
+## How I made this Website
 
 The goal of this is to have a folder of files I can edit, then upload to GitHub, and have a website built whenever there is a commit.
 
