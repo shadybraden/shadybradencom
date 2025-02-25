@@ -4,6 +4,7 @@ draft: true
 tags:
   - homelab
 title: HomeLab
+ShowToc: true
 ---
 
 ## Homelab

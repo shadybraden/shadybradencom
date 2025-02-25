@@ -1,5 +1,6 @@
 ---
 title: 2025 Reading
+ShowToc: true
 ---
 
 #### 01/06/25

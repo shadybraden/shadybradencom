@@ -4,9 +4,8 @@ tags:
 - jetlag
 title: Train info
 weight: 10
+ShowToc: true
 ---
-- [Boston](#mbta-boston)
-- [New York](#mta-new-york)
 
 ## MBTA Boston
 

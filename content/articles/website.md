@@ -7,24 +7,17 @@ tags:
 - Cloudflare
 - Hugo
 title: This Website
+ShowToc: true
+TocOpen: true
 ---
 
 ## How I made this Website
 
 The goal of this is to have a folder of files I can edit, then upload to GitHub, and have a website built whenever there is a commit.
 
-Steps:
-
-- [Install hugo](#install) and initiate a new site
-- [Set a theme](#theme)
-- [Make a page](#page)
-- [Run Hugo locally](#run) for testing and viewing changes
-- [Use a git repo](#git) and send it to GitHub for later
-- [Run it on Cloudflare pages](#cloudflare) and connect a domain
-
 ---
 
-## Install
+## Install hugo
 
 Install via package manager, ie: `dnf install hugo`
 
@@ -33,12 +26,12 @@ Choose a directory, then `hugo new site ./`
 I referenced [this YouTube video](https://youtu.be/hjD9jTi_DQ4) to get me started
 
 ---
-## Theme
+## Set a theme
 
 [Download a theme](https://themes.gohugo.io/), and set it in hugo.toml: `theme = 'PaperMod'`
 
 ---
-## Page
+## Make a page
 
 to make a new post, or new content, `hugo new articles/website.md`
 
@@ -105,7 +98,7 @@ so here is what my website.md looks like so far:
 ```
 
 ---
-## Run
+## Run Hugo locally
 
 Now, the next step is to get this running somewhere.
 
@@ -114,7 +107,7 @@ Run `hugo server` from the directory, and look at it at http://localhost:1313
 Now, when you make changes, it will refresh and show here.
 
 ---
-## Git
+## Use a git repo
 
 Run `git init` to start the git repo, and send it to a public git platform. for me it will be here:
 https://github.com/shadybraden/shadybradencom
@@ -130,7 +123,7 @@ Or use a visual Git program (like VSCode)
 Now, whenever you make a normal commit, it will be on GitHub
 
 ---
-## Cloudflare
+## Run it on Cloudflare pages
 
 Now all the files are in my Git repo, now To host the site somewhere publicly.
 
@@ -142,4 +135,4 @@ You should get a success!
 
 I have my domain  (shadybraden.com) setup through cloudflare, so its just a few clicks, then done! see https://shadybraden.com
 
-### **Now, whenever I make a commit to [this git repo](https://github.com/shadybraden/shadybradencom, Cloudflare automatically builds this website and updates it. All for free (minus domain cost)**
+***Now, whenever I make a commit to [this git repo](https://github.com/shadybraden/shadybradencom), Cloudflare automatically builds this website and updates it. All for free (minus domain cost)***

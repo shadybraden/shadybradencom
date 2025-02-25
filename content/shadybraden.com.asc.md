@@ -1,3 +1,6 @@
+---
+title: My GPG Key
+---
 ```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 

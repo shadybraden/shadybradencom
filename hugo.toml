@@ -42,6 +42,9 @@ theme = 'PaperMod'
     defaultTheme = 'dark'
     favicon = "/favicon.ico"
     mainSections = ["articles"]
+    ShowCodeCopyButtons = 'true'
+    ShowBreadCrumbs = 'true'
+    ShowPostNavLinks = 'true'
 
 [outputs]
     articles = ['html', 'rss']
