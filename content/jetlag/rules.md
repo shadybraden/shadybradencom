@@ -20,6 +20,8 @@ For Boston, Shake Shack on Washington St is perfect.
 
 The goal is to earn points. Points are earned by getting to a POI and by returning to the center point.
 
+Coins are different than points. Coins let the Runners move. Challenges give coins.
+
 ## Runners
 
 Split the group into two teams. Select one team to be the Runners. They start the game with **100 coins**. All other coins must be earned with challenges.
