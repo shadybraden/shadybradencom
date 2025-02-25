@@ -49,11 +49,11 @@ title: 2025 Reading
 - [x] Mk 7
 - [x] Mk 8
 - [x] Mk 9
-- [ ] Mk 10
-- [ ] Mk 11
+- [x] Mk 10
+- [x] Mk 11
 #### 02/24/25
-- [ ] Mk 12
-- [ ] Mk 13
+- [x] Mk 12
+- [x] Mk 13
 - [ ] Mk 14
 - [ ] Mk 15
 - [ ] Mk 16
