@@ -18,15 +18,15 @@
 }
 
 .dark {
-    --theme: #302c2c; /* rgb(29, 30, 32); */
-    --entry:  #222222; /* rgb(46, 46, 51); */
-    --primary: rgb(218, 218, 219);
-    --secondary: #302c2c;
-    --tertiary: rgb(214, 214, 214);
-    --content: rgb(196, 196, 197);
-    --code-block-bg: #1a1a1a; /* rgb(46, 46, 51); */
-    --code-bg: #1a1a1a; /* rgb(55, 56, 62); */
-    --border: #222222;
+    --theme: #302c2c; /* main background*/
+    --entry:  #222222; /* content backgorund - darker */
+    --primary: rgb(255, 255, 255); /* main text color, and a tint */
+    --secondary: rgb(155, 156, 157); /* second text color and tint*/
+    --tertiary: #222222; /* line break etc color */
+    --content: rgb(196, 196, 197); /* text color on page and tint */
+    --code-block-bg: #222222; /* large code block */
+    --code-bg: #222222; /* small code block */
+    --border: #4a4a4a; /* accent around borders */
 }
 
 .list {
