@@ -34,9 +34,6 @@ theme = 'PaperMod'
 [[params.socialIcons]]
     name = "bluesky"
     url = "https://bsky.app/profile/shadybraden.com"
-[[params.socialIcons]]
-    name = "GPG key"
-    url = "/shadybraden.com.asc/"
 
 [params]
     defaultTheme = 'dark'
