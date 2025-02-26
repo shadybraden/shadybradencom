@@ -26,7 +26,7 @@
     --content: rgb(196, 196, 197); /* text color on page and tint */
     --code-block-bg: #222222; /* large code block */
     --code-bg: #222222; /* small code block */
-    --border: #4a4a4a; /* accent around borders */
+    --border: #222222; /* accent around borders */
 }
 
 .list {
