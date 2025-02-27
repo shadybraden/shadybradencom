@@ -8,12 +8,8 @@ ShowToc: true
 weight: 1000
 ---
 
-## Homelab
+# Homelab
 
-A homelab is any number of computers doing any task for their admin, at home. Traditionally for experimenting, however production level homelabs are not uncommon.
+My homelab is constantly evolving. The latest will be on my [homelab git repo](https://github.com/shadybraden/homelab)
 
----
-
-Read more here:
-
-https://github.com/shadybraden/homelab
+This site will serve as a place for specific projects and things that need a few more words than the ones in a config file.
