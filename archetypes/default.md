@@ -1,5 +1,5 @@
 ---
-date: {{ .Date }}
+date: "{{ .Date }}"
 draft: false
 tags:
 - tag
