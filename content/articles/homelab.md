@@ -26,12 +26,12 @@ I will be consolidating [Jeff Geerling's blog post on this](https://www.jeffgeer
 ## Layout and my devices:
 
 - Shutdown order:
-	- [ ] Desktops
-	- [ ] Holmie server
+	- [x] Desktops
+	- [x] Holmie server
 	- [ ] Kubernetes cluster
 	- [ ] iMessage mac
 	- [ ] pfsense
-	- [ ] Raspberry Pi3
+	- [x] Raspberry Pi3
 	- On dead battery: (no config)
 		- Asus WAP
 		- Network Switch
