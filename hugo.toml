@@ -17,6 +17,11 @@ theme = 'PaperMod'
     name = "Jetlag(ish)"
     url = "/jetlag/"
     weight = 20
+[[menu.main]]
+    identifier = "Aircraft"
+    name = "Aircraft"
+    url = "/Aircraft/"
+    weight = 20
 
 [params.homeInfoParams]
     Title = "Welcome to my open source website"
@@ -45,6 +50,7 @@ theme = 'PaperMod'
 
 [outputs]
     articles = ['html', 'rss']
+    aircraft = ['html', 'rss']
 
 [params.assets]
     favicon = "/assets/favicon.ico"
