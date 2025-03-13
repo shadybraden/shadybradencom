@@ -4,15 +4,9 @@ tags:
   - aircraft
 ---
 
-![AB3CD4_N823JM](/aircraft/AB3CD4_N823JM/1.jpg)
-![AB3CD4_N823JM](/aircraft/AB3CD4_N823JM/2.jpg)
-![AB3CD4_N823JM](/aircraft/AB3CD4_N823JM/3.jpg)
-![AB3CD4_N823JM](/aircraft/AB3CD4_N823JM/4.jpg)
-![AB3CD4_N823JM](/aircraft/AB3CD4_N823JM/5.jpg)
-![AB3CD4_N823JM](/aircraft/AB3CD4_N823JM/6.jpg)
-![AB3CD4_N823JM](/aircraft/AB3CD4_N823JM/7.jpg)
-![AB3CD4_N823JM](/aircraft/AB3CD4_N823JM/8.jpg)
 
-| ![AB3CD4_N823JM](/aircraft/AB3CD4_N823JM/1.jpg) | ![AB3CD4_N823JM](/aircraft/AB3CD4_N823JM/2.jpg) | ![AB3CD4_N823JM](/aircraft/AB3CD4_N823JM/3.jpg) | ![AB3CD4_N823JM](/aircraft/AB3CD4_N823JM/4.jpg) | ![AB3CD4_N823JM](/aircraft/AB3CD4_N823JM/5.jpg) | ![AB3CD4_N823JM](/aircraft/AB3CD4_N823JM/6.jpg) | ![AB3CD4_N823JM](/aircraft/AB3CD4_N823JM/7.jpg) | ![AB3CD4_N823JM](/aircraft/AB3CD4_N823JM/8.jpg) |
+
+| AB3CD4_N823JM                                   | AB3CD4_N823JM                                   | AB3CD4_N823JM                                   | AB3CD4_N823JM                                   | AB3CD4_N823JM                                   | AB3CD4_N823JM                                   | AB3CD4_N823JM                                   | AB3CD4_N823JM                                   |
 | ----------------------------------------------- | ----------------------------------------------- | ----------------------------------------------- | ----------------------------------------------- | ----------------------------------------------- | ----------------------------------------------- | ----------------------------------------------- | ----------------------------------------------- |
+| ![AB3CD4_N823JM](/aircraft/AB3CD4_N823JM/1.jpg) | ![AB3CD4_N823JM](/aircraft/AB3CD4_N823JM/2.jpg) | ![AB3CD4_N823JM](/aircraft/AB3CD4_N823JM/3.jpg) | ![AB3CD4_N823JM](/aircraft/AB3CD4_N823JM/4.jpg) | ![AB3CD4_N823JM](/aircraft/AB3CD4_N823JM/5.jpg) | ![AB3CD4_N823JM](/aircraft/AB3CD4_N823JM/6.jpg) | ![AB3CD4_N823JM](/aircraft/AB3CD4_N823JM/7.jpg) | ![AB3CD4_N823JM](/aircraft/AB3CD4_N823JM/8.jpg) |
 
