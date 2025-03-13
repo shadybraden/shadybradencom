@@ -20,5 +20,6 @@ tags:
 | ![AE145A_06-6156.jpg](/aircraft/military_cargo/AE145A_06-6156.jpg)                                                                                         |
 | ![AE2FAD_08-8201.jpg](/aircraft/military_cargo/AE2FAD_08-8201.jpg)                                                                                         |
 | ![896C2D_1225.jpg](/aircraft/military_cargo/896C2D_1225.jpg)                                                                                               |
+| ![AE068C_62-3513.jpg](/aircraft/military_cargo/AE068C_62-3513.jpg)                                                                                         |
 
 
