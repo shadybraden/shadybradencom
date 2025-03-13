@@ -17,6 +17,11 @@ theme = 'PaperMod'
     name = "Jetlag(ish)"
     url = "/jetlag/"
     weight = 20
+[[menu.main]]
+    identifier = "Aircraft"
+    name = "Aircraft"
+    url = "/Aircraft/"
+    weight = 19
 
 [params.homeInfoParams]
     Title = "Welcome to my open source website"
