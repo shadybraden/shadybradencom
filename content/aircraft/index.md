@@ -8,7 +8,7 @@ These are all photos taken by me with a [Canon SL2](https://www.usa.canon.com/su
 
 # 2025-03-18
 
-## 20250318-1-AE1534-06-1438
+## 20250318-AE1534-06-1438
 
 https://globe.adsbexchange.com/?icao=AE1534 | LOCKHEED MARTIN C-130J Super Hercules
 
@@ -19,14 +19,14 @@ Military Cargo
 ![image](/aircraft/20250318-AE049D-99-1431.jpg)
 ![image](/aircraft/20250318-AE1534-06-1438-AND-AE049D-99-1431.jpg)
 
-## 20250318-4-AE6E80-11-3013
+## 20250318-AE6E80-11-3013
 
 https://globe.adsbexchange.com/?icao=AE6E80 | Dornier C-146A Wolfhound
 
 ![image](/aircraft/20250318-AE6E80-11-3013.jpg)
 ![image](/aircraft/20250318-AE6E80-11-3013-1.jpg)
 
-## 20250318-0-AB399C-N822PP
+## 20250318-AB399C-N822PP
 
 https://globe.adsbexchange.com/?icao=AB399C | 2021 AIRBUS HELICOPTERS EC-135/635
 
@@ -34,13 +34,13 @@ MASSACHUSETTS STATE POLICE
 
 ![image](/aircraft/20250318-AB399C-N822PP.jpg)
 
-## 20250318-3-A4064C-N359AR
+## 20250318-A4064C-N359AR
 
 https://globe.adsbexchange.com/?icao=A4064C | 1973 DE HAVILLAND DHC-6 Twin Otter
 
 ![image](/aircraft/20250318-A4064C-N359AR.jpg)
 
-## 20250318-2-A2F434-N29M
+## 20250318-A2F434-N29M
 
 https://globe.adsbexchange.com/?icao=A2F434 | 1973 BEECH 90 King Air
 
