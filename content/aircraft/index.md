@@ -8,7 +8,7 @@ TocOpen: false
 
 ## 20250318-1-AE1534-06-1438
 
-https://globe.adsbexchange.com/?icao=hex | LOCKHEED MARTIN C-130J Super Hercules
+https://globe.adsbexchange.com/?icao=AE1534 | LOCKHEED MARTIN C-130J Super Hercules
 
 Military Cargo
 
@@ -238,7 +238,7 @@ Massachusetts State Police
 
 ## 20250114-AB3CD4-N823JM
 
-https://globe.adsbexchange.com/?icao=hex | 2014 AIRBUS HELICOPTERS EC-135/635
+https://globe.adsbexchange.com/?icao=AB3CD4 | 2014 AIRBUS HELICOPTERS EC-135/635
 
 MASSACHUSETTS STATE POLICE
 
