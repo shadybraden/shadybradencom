@@ -15,6 +15,10 @@ Currently I am using a [docker-based homelab](https://github.com/shadybraden/hom
 
 This site will serve as a place for specific projects and things that need a few more words than the ones in a config file.
 
+Here is a picture of my whole homelab:
+
+![homelab](/homelab.jpg)
+
 ---
 
 # Network UPS Tools (NUT)
