@@ -98,7 +98,7 @@ https://globe.adsbexchange.com/?icao=AB399C | 2021 AIRBUS HELICOPTERS EC-135/635
 
 MASSACHUSETTS STATE POLICE
 
-![image](/aircraft/20250221-AB399C-N822PP-0.jpg)
+![image](/aircraft/20250221-AB399C-N822PP-0.png)
 ![image](/aircraft/20250221-AB399C-N822PP-1.jpg)
 
 ---
