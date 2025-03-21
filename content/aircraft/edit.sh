@@ -2,7 +2,7 @@
 
 # Check if the correct number of arguments are provided
 if [ $# -ne 4 ]; then
-  echo "Usage: $0 <date> <hex> <reg> <description>"
+  echo "Usage: $0 <date> <hex> <registration> <description>"
   # ./edit.sh 20250321 A19B2F N202TW "PILATUS PC-12"
   exit 1
 fi
@@ -10,11 +10,11 @@ fi
 # Get the arguments
 date=$1
 hex=$2
-reg=$3
+registration=$3
 description=$4
 
 # Create the title
-title="${date}-${hex}-${reg}"
+title="${date}-${hex}-${registration}"
 
 # Parse the date
 part1="${date:0:4}"
