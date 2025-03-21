@@ -6,6 +6,16 @@ TocOpen: false
 
 These are all photos taken by me with a [Canon SL2](https://www.usa.canon.com/support/p/eos-rebel-sl2) + [100-400mm lense](https://www.usa.canon.com/support/p/ef-100-400mm-f-4-5-5-6l-is-usm)
 
+# 2025-03-21
+
+## 20250321-A19B2F-N202TW
+
+https://globe.adsbexchange.com/?icao=A19B2F | PILATUS PC-12
+
+![image](/aircraft/20250321-A19B2F-N202TW.jpg)
+
+---
+
 # 2025-03-19
 
 ## 20250319-A651BF-N506RP
