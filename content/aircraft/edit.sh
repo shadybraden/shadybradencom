@@ -3,7 +3,7 @@
 # Check if the correct number of arguments are provided
 if [ $# -ne 4 ]; then
   echo "Usage: $0 <date> <hex> <registration> <description>"
-  # ./edit.sh 20250321 A19B2F N202TW "PILATUS PC-12"
+  # ./edit.sh DATE HEX REGISTRATION "DESCRIPTION"
   exit 1
 fi
 
