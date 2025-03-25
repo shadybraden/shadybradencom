@@ -10,7 +10,7 @@ These are all photos taken by me with a [Canon SL2](https://www.usa.canon.com/su
 
 ## 20250325-A8B371-N66SA
 
-https://globe.adsbexchange.com/?icao=A8B371 | SIERRA ALPHA HELICOPTERS LLC
+https://globe.adsbexchange.com/?icao=A8B371 | 2024 ROBINSON R-66
 
 ![image](/aircraft/20250325-A8B371-N66SA-edit.jpg)
 
