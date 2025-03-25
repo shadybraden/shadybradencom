@@ -14,7 +14,6 @@ https://globe.adsbexchange.com/?icao=A8B371 | SIERRA ALPHA HELICOPTERS LLC
 
 ![image](/aircraft/20250325-A8B371-N66SA-edit.jpg)
 
-
 ## 20250325-A77707-N580MM
 
 https://globe.adsbexchange.com/?icao=A77707 | 2008 PIPER PA-46-500TP
