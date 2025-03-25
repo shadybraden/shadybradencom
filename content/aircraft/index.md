@@ -12,7 +12,7 @@ These are all photos taken by me with a [Canon SL2](https://www.usa.canon.com/su
 
 https://globe.adsbexchange.com/?icao=A8B371 | SIERRA ALPHA HELICOPTERS LLC
 
-![image](/aircraft/20250325-A8B371-N66SA.jpg)
+![image](/aircraft/20250325-A8B371-N66SA-edit.jpg)
 
 
 ## 20250325-A77707-N580MM
