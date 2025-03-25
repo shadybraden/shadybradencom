@@ -8,6 +8,13 @@ These are all photos taken by me with a [Canon SL2](https://www.usa.canon.com/su
 
 # 2025-03-25
 
+## 20250325-A8B371-N66SA
+
+https://globe.adsbexchange.com/?icao=A8B371 | SIERRA ALPHA HELICOPTERS LLC
+
+![image](/aircraft/20250325-A8B371-N66SA.jpg)
+
+
 ## 20250325-A77707-N580MM
 
 https://globe.adsbexchange.com/?icao=A77707 | 2008 PIPER PA-46-500TP
