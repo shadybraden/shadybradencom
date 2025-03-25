@@ -6,6 +6,16 @@ TocOpen: false
 
 These are all photos taken by me with a [Canon SL2](https://www.usa.canon.com/support/p/eos-rebel-sl2) + [100-400mm lense](https://www.usa.canon.com/support/p/ef-100-400mm-f-4-5-5-6l-is-usm)
 
+# 2025-03-25
+
+## 20250325-A4EDC2-N4167L
+
+https://globe.adsbexchange.com/?icao=A4EDC2 | 2000 PIPER PA-28-140/150/160/180
+
+![image](/aircraft/20250325-A4EDC2-N4167L.jpg)
+
+---
+
 # 2025-03-21
 
 ## 20250321-A19B2F-N202TW
