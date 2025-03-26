@@ -8,6 +8,12 @@ These are all photos taken by me with a [Canon SL2](https://www.usa.canon.com/su
 
 # 2025-03-26
 
+## 20250326-A40C8C-N360CP
+
+https://globe.adsbexchange.com/?icao=A40C8C | 2005 CESSNA 182 Skylane CIVIL AIR PATROL
+
+![image](/aircraft/20250326-A40C8C-N360CP.jpg)
+
 ## 20250326-A57090-N45JE
 
 https://globe.adsbexchange.com/?icao=A57090 | 2013 GULFSTREAM 5 
