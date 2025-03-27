@@ -6,6 +6,24 @@ TocOpen: false
 
 These are all photos taken by me with a [Canon SL2](https://www.usa.canon.com/support/p/eos-rebel-sl2) + [100-400mm lense](https://www.usa.canon.com/support/p/ef-100-400mm-f-4-5-5-6l-is-usm)
 
+# 2025-03-27
+
+## 20250327-AC4AB8-N891TD
+
+https://globe.adsbexchange.com/?icao=AC4AB8 | 2019 CESSNA 208 Caravan
+
+MASSACHUSETTS STATE POLICE
+
+![image](/aircraft/20250327-AC4AB8-N891TD.jpg)
+
+## 20250327-A9D908-N7333Y
+
+https://globe.adsbexchange.com/?icao=A9D908 | 1977 CESSNA R182 Skylane RG
+
+![image](/aircraft/20250327-A9D908-N7333Y.jpg)
+
+---
+
 # 2025-03-26
 
 ## 20250326-A40C8C-N360CP
