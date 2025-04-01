@@ -24,6 +24,8 @@ Recomended to buy 1-day pass for subway
 | RED    | [all info](https://www.mbta.com/schedules/Red/line)    | [timetable](https://www.mbta.com/schedules/Red/timetable)    |
 | BLUE   | [all info](https://www.mbta.com/schedules/Blue/line)   | [timetable](https://www.mbta.com/schedules/Blue/timetable)   |
 
+---
+
 ## MTA New York
 
 [MTA](https://mta.info/)
