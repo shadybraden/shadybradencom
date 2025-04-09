@@ -6,6 +6,22 @@ TocOpen: false
 
 These are all photos taken by me with a [Canon SL2](https://www.usa.canon.com/support/p/eos-rebel-sl2) + [100-400mm lense](https://www.usa.canon.com/support/p/ef-100-400mm-f-4-5-5-6l-is-usm)
 
+# 2025-04-09
+
+## 20250409-A0A798-N141NE
+
+https://globe.adsbexchange.com/?icao=A0A798 | 2017 AIRBUS HELICOPTERS EC-145
+
+![image](/aircraft/20250409-A0A798-N141NE.jpg)
+
+## 20250409-A1E99F-N222ND
+
+https://globe.adsbexchange.com/?icao=A1E99F | 2001 PIPER PA-28-140/150/160/180
+
+![image](/aircraft/20250409-A1E99F-N222ND.jpg)
+
+---
+
 # 2025-03-27
 
 ## 20250327-AB399C-N822PP
