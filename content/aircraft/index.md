@@ -10,13 +10,17 @@ These are all photos taken by me with a [Canon SL2](https://www.usa.canon.com/su
 
 ## 20250410-A95239-N70AD
 
-https://globe.adsbexchange.com/?icao=A95239 | BELL 429 GlobalRanger DIVERSIFIED MANAGEMENT CORP
+https://globe.adsbexchange.com/?icao=A95239 | BELL 429 GlobalRanger
+
+DIVERSIFIED MANAGEMENT CORP
 
 ![image](/aircraft/20250410-A95239-N70AD.jpg)
 
 ## 20250410-AB399C-N822PP
 
-https://globe.adsbexchange.com/?icao=AB399C | 2021 AIRBUS HELICOPTERS EC-135/635 MASSACHUSETTS STATE POLICE
+https://globe.adsbexchange.com/?icao=AB399C | 2021 AIRBUS HELICOPTERS EC-135/635
+
+MASSACHUSETTS STATE POLICE
 
 ![image](/aircraft/20250410-AB399C-N822PP.jpg)
 
