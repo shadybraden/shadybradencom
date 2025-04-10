@@ -26,10 +26,6 @@ https://globe.adsbexchange.com/?icao=A0CCA2 | 1972 PIPER PA-28-140/150/160/180
 
 ![image](/aircraft/20250410-A0CCA2-N15002.jpg)
 
----
-
-# 2025-04-10
-
 ## 20250410-AB448D-N825MM
 
 https://globe.adsbexchange.com/?icao=AB448D | 2013 AIRBUS HELICOPTERS EC-135/635
