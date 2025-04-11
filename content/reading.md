@@ -93,7 +93,7 @@ ShowToc: true
 - [x] Jn 3
 - [x] Jn 4
 - [x] Jn 5
-- [ ] Jn 6
+- [x] Jn 6
 #### 04/14/25
 - [ ] Jn 7
 - [ ] Jn 8
