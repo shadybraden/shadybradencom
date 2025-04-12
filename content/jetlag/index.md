@@ -2,7 +2,7 @@
 title: Hide + Seek
 ---
 
-[MBTA Station Map](https://www.google.com/maps/d/embed?mid=1o-mhrgndBPDkNsbasblwvnJSC2nc7pY)
+[Google Maps Hiding Locations](https://www.google.com/maps/d/embed?mid=1o-mhrgndBPDkNsbasblwvnJSC2nc7pY)
 
 [MBTA Train info](/jetlag/trains)
 
