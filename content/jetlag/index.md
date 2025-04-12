@@ -12,3 +12,7 @@ title: Hide + Seek
 - set your Username
 
 Now, [view locations here](https://jetlag.holmlab.org/dashboard-jetlag/0?edit=0)
+
+---
+
+(https://dawarich.holmlab.org/map)
