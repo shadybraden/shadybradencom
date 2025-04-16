@@ -9,7 +9,9 @@ ShowToc: false
 
 ## MBTA Boston
 
-[MBTA](https://www.mbta.com/) - [map of all](https://cdn.mbta.com/sites/default/files/2024-12/2024-12-15-commuter-rail-map-v41a.pdf) --- [map of subway](https://cdn.mbta.com/sites/default/files/2024-12/2024-12-15-subway-map.pdf) - [Commuter trains](https://www.mbta.com/schedules/commuter-rail) 
+[MBTA](https://www.mbta.com/) - [Map of all](https://cdn.mbta.com/sites/default/files/2024-12/2024-12-15-commuter-rail-map-v41a.pdf) - [Subway map](https://cdn.mbta.com/sites/default/files/2024-12/2024-12-15-subway-map.pdf)
+
+[Subway all trains](https://www.mbta.com/schedules/subway) - [Commuter all trains](https://www.mbta.com/schedules/commuter-rail) 
 
 | Line   | INFO                                                   | timetable                                                    |
 | ------ | ------------------------------------------------------ | ------------------------------------------------------------ |
