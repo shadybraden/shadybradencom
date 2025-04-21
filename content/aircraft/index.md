@@ -6,6 +6,28 @@ TocOpen: false
 
 These are all photos taken by me with a [Canon SL2](https://www.usa.canon.com/support/p/eos-rebel-sl2) + [100-400mm lense](https://www.usa.canon.com/support/p/ef-100-400mm-f-4-5-5-6l-is-usm)
 
+# 2025-04-21
+
+## 20250421-ADFDCB-93-2042
+
+https://globe.adsbexchange.com/?icao=ADFDCB | Lockheed C-130H Hercules
+
+![image](/aircraft/20250421-ADFDCB-93-2042.jpg)
+
+## 20250421-ADFDC4-93-1457
+
+https://globe.adsbexchange.com/?icao=ADFDC4 | Lockheed C-130H Hercules
+
+![image](/aircraft/20250421-ADFDC4-93-1457.jpg)
+
+## 20250421-AB3CD4-N823JM
+
+https://globe.adsbexchange.com/?icao=AB3CD4 | 2014 AIRBUS HELICOPTERS EC-135/635 MASSACHUSETTS STATE POLICE
+
+![image](/aircraft/20250421-AB3CD4-N823JM.jpg)
+
+---
+
 # 2025-04-17
 
 ## 20250417-A5FAD5-N4847U
