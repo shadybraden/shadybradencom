@@ -6,6 +6,28 @@ TocOpen: false
 
 These are all photos taken by me with a [Canon SL2](https://www.usa.canon.com/support/p/eos-rebel-sl2) + [100-400mm lense](https://www.usa.canon.com/support/p/ef-100-400mm-f-4-5-5-6l-is-usm)
 
+# 2025-04-23
+
+## 20250423-A3B066-N337G
+
+https://globe.adsbexchange.com/?icao=A3B066 | 2020 PIPER PA-28-140/150/160/180
+
+![image](/aircraft/20250423-A3B066-N337G.jpg)
+
+## 20250423-A7D28E-N603BS
+
+https://globe.adsbexchange.com/?icao=A7D28E | 2021 BELL 407
+
+![image](/aircraft/20250423-A7D28E-N603BS.jpg)
+
+## 20250423-A0DB14-N154WW
+
+https://globe.adsbexchange.com/?icao=A0DB14 | 1979 PIPER PA-31-300/310/325/350/425
+
+![image](/aircraft/20250423-A0DB14-N154WW.jpg)
+
+---
+
 # 2025-04-21
 
 ## 20250421-ADFDCB-93-2042
