@@ -6,6 +6,22 @@ TocOpen: false
 
 These are all photos taken by me with a [Canon SL2](https://www.usa.canon.com/support/p/eos-rebel-sl2) + [100-400mm lense](https://www.usa.canon.com/support/p/ef-100-400mm-f-4-5-5-6l-is-usm)
 
+# 2025-04-28
+
+## 20250428-A31B0F-N3EL
+
+https://globe.adsbexchange.com/?icao=A31B0F | 1978 CESSNA 340 Super
+
+![image](/aircraft/20250428-A31B0F-N3EL.jpg)
+
+## 20250428-AE4789-07-20037
+
+https://globe.adsbexchange.com/?icao=AE4789 | SIKORSKY UH-60 Black Hawk
+
+![image](/aircraft/20250428-AE4789-07-20037.jpg)
+
+---
+
 # 2025-04-23
 
 ## 20250423-A3B066-N337G
