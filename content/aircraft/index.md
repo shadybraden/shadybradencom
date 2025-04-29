@@ -6,6 +6,21 @@ TocOpen: false
 
 These are all photos taken by me with a [Canon SL2](https://www.usa.canon.com/support/p/eos-rebel-sl2) + [100-400mm lense](https://www.usa.canon.com/support/p/ef-100-400mm-f-4-5-5-6l-is-usm)
 
+# 2025-04-29
+
+## 20250429-AE0620-84-0210
+
+https://globe.adsbexchange.com/?icao=AE0620 | LOCKHEED C-130 Hercules
+
+![image](/aircraft/20250429-AE0620-84-0210.jpg)
+![image](/aircraft/20250429-AE0620-84-0210-0.jpg)
+
+## 20250429-31459
+
+![image](/aircraft/20250429-31459.jpg)
+
+---
+
 # 2025-04-28
 
 ## 20250428-A31B0F-N3EL
