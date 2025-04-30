@@ -6,7 +6,13 @@ TocOpen: false
 
 These are all photos taken by me with a [Canon SL2](https://www.usa.canon.com/support/p/eos-rebel-sl2) + [100-400mm lense](https://www.usa.canon.com/support/p/ef-100-400mm-f-4-5-5-6l-is-usm)
 
-# 2025-04-39
+# 2025-04-30
+
+## 20250430-A43F30-N373CP
+
+https://globe.adsbexchange.com/?icao=A43F30 | 2007 CESSNA 182 Skylane
+
+![image](/aircraft/20250430-A43F30-N373CP.jpg)
 
 ## 20250439-C02616-C-FOKZ
 
