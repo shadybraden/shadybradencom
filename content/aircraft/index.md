@@ -6,6 +6,16 @@ TocOpen: false
 
 These are all photos taken by me with a [Canon SL2](https://www.usa.canon.com/support/p/eos-rebel-sl2) + [100-400mm lense](https://www.usa.canon.com/support/p/ef-100-400mm-f-4-5-5-6l-is-usm)
 
+# 2025-04-39
+
+## 20250439-C02616-C-FOKZ
+
+https://globe.adsbexchange.com/?icao=C02616 | 2020 BELL 407
+
+![image](/aircraft/20250439-C02616-C-FOKZ.jpg)
+
+---
+
 # 2025-04-29
 
 ## 20250429-AE0620-84-0210
