@@ -12,6 +12,8 @@ These are all photos taken by me with a [Canon SL2](https://www.usa.canon.com/su
 
 https://globe.adsbexchange.com/?icao=A43F30 | 2007 CESSNA 182 Skylane
 
+CIVIL AIR PATROL
+
 ![image](/aircraft/20250430-A43F30-N373CP.jpg)
 
 ## 20250439-C02616-C-FOKZ
