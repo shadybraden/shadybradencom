@@ -107,11 +107,11 @@ ShowToc: true
 - [x] Jn 15
 - [x] Jn 16
 #### 04/28/25
-- [ ] Jn 17
-- [ ] Jn 18
-- [ ] Jn 19
-- [ ] Jn 20
-- [ ] Jn 21–Acts 1
+- [x] Jn 17
+- [x] Jn 18
+- [x] Jn 19
+- [x] Jn 20
+- [x] Jn 21–Acts 1
 #### 05/05/25
 - [ ] Acts 2
 - [ ] Acts 3
