@@ -6,6 +6,22 @@ TocOpen: false
 
 These are all photos taken by me with a [Canon SL2](https://www.usa.canon.com/support/p/eos-rebel-sl2) + [100-400mm lense](https://www.usa.canon.com/support/p/ef-100-400mm-f-4-5-5-6l-is-usm)
 
+# 2025-05-02
+
+## 20250502-A24B31-N247NE
+
+https://globe.adsbexchange.com/?icao=A24B31 | 2024 AIRBUS HELICOPTERS EC-145
+
+![image](/aircraft/20250502-A24B31-N247NE.jpg)
+
+## 20250501-A2C129-N277GX
+
+https://globe.adsbexchange.com/?icao=A2C129 | 2005 AIRBUS A-321
+
+![image](/aircraft/20250501-A2C129-N277GX.jpg)
+
+---
+
 # 2025-04-30
 
 ## 20250430-A43F30-N373CP
