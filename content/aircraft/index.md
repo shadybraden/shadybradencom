@@ -6,6 +6,19 @@ TocOpen: false
 
 These are all photos taken by me with a [Canon SL2](https://www.usa.canon.com/support/p/eos-rebel-sl2) + [100-400mm lense](https://www.usa.canon.com/support/p/ef-100-400mm-f-4-5-5-6l-is-usm)
 
+# 2025-05-03
+
+## 20250502-Osprey
+
+BELL-BOEING V-22 Osprey
+
+https://globe.adsbexchange.com/?icao=ae53f7 | https://globe.adsbexchange.com/?icao=ae6aa8
+
+And 2 others; not broadcasting
+
+![image](/aircraft/20250503-osprey1.jpg)
+![image](/aircraft/20250503-osprey2.jpg)
+
 # 2025-05-02
 
 ## 20250502-A24B31-N247NE
