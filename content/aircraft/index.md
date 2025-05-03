@@ -6,6 +6,53 @@ TocOpen: false
 
 These are all photos taken by me with a [Canon SL2](https://www.usa.canon.com/support/p/eos-rebel-sl2) + [100-400mm lense](https://www.usa.canon.com/support/p/ef-100-400mm-f-4-5-5-6l-is-usm)
 
+# 2025-05-03
+
+## 20250502-Osprey
+
+BELL-BOEING V-22 Osprey
+
+Likely: https://globe.adsbexchange.com/?icao=ae53f7 | https://globe.adsbexchange.com/?icao=ae6aa8
+
+And 2 others; not broadcasting
+
+![image](/aircraft/20250503-osprey1.jpg)
+![image](/aircraft/20250503-osprey2.jpg)
+
+# 2025-05-02
+
+## 20250502-A24B31-N247NE
+
+https://globe.adsbexchange.com/?icao=A24B31 | 2024 AIRBUS HELICOPTERS EC-145
+
+![image](/aircraft/20250502-A24B31-N247NE.jpg)
+
+## 20250501-A2C129-N277GX
+
+https://globe.adsbexchange.com/?icao=A2C129 | 2005 AIRBUS A-321
+
+![image](/aircraft/20250501-A2C129-N277GX.jpg)
+
+---
+
+# 2025-04-30
+
+## 20250430-A43F30-N373CP
+
+https://globe.adsbexchange.com/?icao=A43F30 | 2007 CESSNA 182 Skylane
+
+CIVIL AIR PATROL
+
+![image](/aircraft/20250430-A43F30-N373CP.jpg)
+
+## 20250439-C02616-C-FOKZ
+
+https://globe.adsbexchange.com/?icao=C02616 | 2020 BELL 407
+
+![image](/aircraft/20250439-C02616-C-FOKZ.jpg)
+
+---
+
 # 2025-04-29
 
 ## 20250429-AE0620-84-0210
