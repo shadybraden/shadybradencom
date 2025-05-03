@@ -12,7 +12,7 @@ These are all photos taken by me with a [Canon SL2](https://www.usa.canon.com/su
 
 BELL-BOEING V-22 Osprey
 
-https://globe.adsbexchange.com/?icao=ae53f7 | https://globe.adsbexchange.com/?icao=ae6aa8
+Likely: https://globe.adsbexchange.com/?icao=ae53f7 | https://globe.adsbexchange.com/?icao=ae6aa8
 
 And 2 others; not broadcasting
 
