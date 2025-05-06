@@ -49,7 +49,7 @@ paginate = 10
     ShowCodeCopyButtons = 'true'
     ShowBreadCrumbs = 'true'
     ShowPostNavLinks = 'true'
-    ShowReadingTime= 'true'
+    ShowReadingTime= 'false'
 
 [outputs]
     articles = ['html', 'rss']
