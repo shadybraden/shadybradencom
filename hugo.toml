@@ -47,9 +47,9 @@ paginate = 10
     favicon = "/favicon.ico"
     mainSections = ["articles"]
     ShowCodeCopyButtons = 'true'
-    ShowBreadCrumbs = 'false'
-    ShowPostNavLinks = 'false'
-    ShowReadingTime= 'false'
+#    ShowBreadCrumbs = 'true'
+    ShowPostNavLinks = 'true'
+#    ShowReadingTime= 'true'
 
 [outputs]
     articles = ['html', 'rss']
