@@ -47,7 +47,7 @@ paginate = 10
     favicon = "/favicon.ico"
     mainSections = ["articles"]
     ShowCodeCopyButtons = 'true'
-    ShowBreadCrumbs = 'true'
+    ShowBreadCrumbs = 'false'
     ShowPostNavLinks = 'true'
     ShowReadingTime= 'false'
 
