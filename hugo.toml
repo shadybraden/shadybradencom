@@ -48,7 +48,7 @@ paginate = 10
     mainSections = ["articles"]
     ShowCodeCopyButtons = 'true'
     ShowBreadCrumbs = 'false'
-    ShowPostNavLinks = 'true'
+    ShowPostNavLinks = 'false'
     ShowReadingTime= 'false'
 
 [outputs]
