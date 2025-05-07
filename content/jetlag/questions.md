@@ -14,11 +14,15 @@ TocOpen: true
 
 `Airport`, `Train line`, `Station Name Length`, `Street/Path`, `Mountain`, `Landmass`, `Park`, `Amusement Park`, `Zoo`, `Aquarium`, `Golf Course`, `Museum`, `Theater`, `Hospital`, `Library`, `Foreign Consulate`
 
+---
+
 ### Measure - D3P1
 
 > Compared to me, are you closer to or further from __?
 
 `Airport`, `Train Lines`, `State Border`, `Sea Level`, `Body Water`, `Coastline`, `Mountain`, `Park`, `Amusement Park`, `Zoo`, `Aquarium`, `Golf Course`, `Museum`, `Theater`, `Hospital`, `Foreign Consulate`
+
+---
 
 ### Thermometer - D2P1
 
@@ -26,11 +30,15 @@ TocOpen: true
 
 `1/2`, `3`, `10`, `50`
 
+---
+
 ### Radar - D2P1
 
 > Are you within `distance` of me?
 
 `1/4`, `1/2`, `1`, `3`, `5`, `10`, `25`, `50`, `100`, `choose`
+
+---
 
 ### Photos (10min) - D1
 
