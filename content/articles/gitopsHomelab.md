@@ -241,4 +241,4 @@ Note the `config.schedule`. It is using Cron second notation. So the first 0 is 
 
 ---
 
-And that't it!
+And that is it!
