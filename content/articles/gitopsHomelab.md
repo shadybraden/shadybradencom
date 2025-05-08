@@ -133,28 +133,29 @@ We will use [Syncs](https://komodo.holmlab.org/resource-syncs) to setup this. Th
 2. Configuring Webhooks
 3. Starting containers
 
-The first is quite simple. Make a new Sync named `main` and add your git source (git.holmlab.org) with the Forgejo account (you gotta make this in Forgejo). 
+The first is quite simple. Make a new Sync named `syncs` and add your git source (git.holmlab.org) with the Forgejo account (you gotta make this in Forgejo). 
 Repo=shady/compose
 Branch=main
-Resource Paths=komodo.toml (This is my config. Look through it and delete lotsa stuff you don't want. Start from the bottom)
+Resource Paths=syncs/syncs.toml (This is my config. Look through it and delete lotsa stuff you don't want. Start from the bottom)
 
 My sync looks like this: (see button in the top right)
 
 ```toml
 [[resource_sync]]
-name = "main"
+name = "syncs"
 [resource_sync.config]
 git_provider = "git.holmlab.org"
 repo = "shady/compose"
 git_account = "komodo"
-resource_path = ["komodo.toml"]
-include_user_groups = true
+resource_path = ["syncs/syncs.toml"]
 ```
+
+This can be edited, but mine is setup to be the setup for many other syncs.
 
 Once yours is like this, you just gotta add the webhook. Go to https://git.holmlab.org/shady/compose/settings/hooks and click "Add webhook" (then Forgejo) and paste in the link "Webhook Url" on Komodo. Do both:
 
-https://komodo.holmlab.org/listener/github/sync/main/refresh
-https://komodo.holmlab.org/listener/github/sync/main/sync
+https://komodo.holmlab.org/listener/github/sync/syncs/refresh
+https://komodo.holmlab.org/listener/github/sync/syncs/sync
 
 These links are the "Target URL" and the Secret is from `KOMODO_WEBHOOK_SECRET`
 
