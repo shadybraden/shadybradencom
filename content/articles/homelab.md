@@ -6,12 +6,12 @@ tags:
 title: Homelab
 ShowToc: true
 TocOpen: true
-weight: 1000
+weight: 999
 ---
 
 My homelab is constantly evolving. The latest will be on my [homelab git repo](https://github.com/shadybraden/homelab)
 
-Currently I am using a [docker-based homelab](https://github.com/shadybraden/homelab/tree/main/docker#docker-compose-based-homelab). The plan is to switch to a Kubernetes and GitOps based homelab.
+Currently I am using a [docker-based homelab](https://github.com/shadybraden/homelab/tree/main/docker#docker-compose-based-homelab). The plan is to switch to a GitOps based homelab. (see [here](/articles/gitopshomelab/))
 
 This site will serve as a place for specific projects and things that need a few more words than the ones in a config file.
 
