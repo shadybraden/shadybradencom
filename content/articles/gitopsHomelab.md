@@ -29,7 +29,7 @@ This will be broken down into sections. I will also be using a domain from Cloud
 
 You may be thinking about hardware or OS's at this point, but that doesn't really matter. This is heavily reliant on Docker, making the OS fairly irrelevant. I have used Debian for this, and for this write-up: Fedora Server. 
 
-This guide assumes you know [how to install an operating system](https://search.brave.com/search?q=how+to+install+an+operating+system) and [how to setup ssh keys](https://search.brave.com/search?q=how+to+setup+ssh+keys) and [install docker](https://docs.docker.com/engine/install/)
+This guide assumes you know [how to install an operating system](https://search.brave.com/search?q=how+to+install+an+operating+system) and [how to setup ssh keys](https://search.brave.com/search?q=how+to+setup+ssh+keys) and [install docker](https://docs.docker.com/engine/install/) and how to use Git.
 
 If you want to follow along, just fill in your domain and IP addresses with mine: 
 
