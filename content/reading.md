@@ -113,11 +113,11 @@ ShowToc: true
 - [x] Jn 20
 - [x] Jn 21–Acts 1
 #### 05/05/25
-- [ ] Acts 2
-- [ ] Acts 3
-- [ ] Acts 4
-- [ ] Acts 5
-- [ ] Acts 6
+- [x] Acts 2
+- [x] Acts 3
+- [x] Acts 4
+- [x] Acts 5
+- [x] Acts 6
 #### 05/12/25
 - [ ] Acts 7
 - [ ] Acts 8
