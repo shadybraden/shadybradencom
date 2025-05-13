@@ -2,7 +2,6 @@ baseURL = 'https://shadybraden.com/'
 languageCode = 'en-us'
 title = 'shadybraden'
 theme = 'PaperMod'
-paginate = 10
 
 [[menu.main]]
     identifier = "articles"

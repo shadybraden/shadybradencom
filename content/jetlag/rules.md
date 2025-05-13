@@ -1,9 +1,9 @@
 ---
-draft: true
+draft: false
 tags:
 - jetlag
 title: Rules
-weight: 7
+weight: 3
 ShowToc: true
 ---
 
