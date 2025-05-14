@@ -6,6 +6,22 @@ TocOpen: false
 
 These are all photos taken by me with a [Canon SL2](https://www.usa.canon.com/support/p/eos-rebel-sl2) + [100-400mm lense](https://www.usa.canon.com/support/p/ef-100-400mm-f-4-5-5-6l-is-usm)
 
+# 2025-05-14
+
+## 20250514-ADFDC6-93-1459
+
+https://globe.adsbexchange.com/?icao=ADFDC6 | Lockheed C-130H Hercules
+
+![image](/aircraft/20250514-ADFDC6-93-1459.jpg)
+
+## 20250514-A8B371-N66SA
+
+https://globe.adsbexchange.com/?icao=A8B371 | 2024 ROBINSON R-66
+
+![image](/aircraft/20250514-A8B371-N66SA-edit.jpg)
+
+---
+
 # 2025-05-13
 
 ## 20250513-AE2907-6023
