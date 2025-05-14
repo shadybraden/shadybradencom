@@ -18,7 +18,7 @@ https://globe.adsbexchange.com/?icao=ADFDC6 | Lockheed C-130H Hercules
 
 https://globe.adsbexchange.com/?icao=A8B371 | 2024 ROBINSON R-66
 
-![image](/aircraft/20250514-A8B371-N66SA-edit.jpg)
+![image](/aircraft/20250514-A8B371-N66SA.jpg)
 
 ---
 
