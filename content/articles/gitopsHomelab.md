@@ -49,8 +49,6 @@ Setup config folders:
 
 `cd pihole/ && cp .env.sample .env` then add a password to `.env` 
 
-`nano compose.yaml` and un-comment line 19 with the web ui port.
-
 `docker compose up -d` 
 
 Now DNS should be up. We need to do a couple things now:
@@ -63,8 +61,6 @@ Now DNS should be up. We need to do a couple things now:
 - Now you have to tell DNS that `192.168.50.65` = `*.holmlab.org`
 	- Do this by going here: http://192.168.50.65:5353/admin/settings/system and turn on expert mode
 	- Then go to http://192.168.50.65:5353/admin/settings/all and click `Miscellaneous` and then under `misc.dnsmasq_lines` add this: `address=/holmlab.org/192.168.50.65`. This is a wildcard DNS entry, so `anything.holmlab.org` works.
-
-`nano compose.yaml` and re-comment line 19 with the web ui port.
 
 `sudo docker compose restart`
 
