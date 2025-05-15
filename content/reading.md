@@ -119,11 +119,11 @@ ShowToc: true
 - [x] Acts 5
 - [x] Acts 6
 #### 05/12/25
-- [ ] Acts 7
-- [ ] Acts 8
-- [ ] Acts 9
-- [ ] Acts 10
-- [ ] Acts 11
+- [x] Acts 7
+- [x] Acts 8
+- [x] Acts 9
+- [x] Acts 10
+- [x] Acts 11
 #### 05/19/25
 - [ ] Acts 12
 - [ ] Acts 13
