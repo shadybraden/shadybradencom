@@ -6,6 +6,16 @@ TocOpen: false
 
 These are all photos taken by me with a [Canon SL2](https://www.usa.canon.com/support/p/eos-rebel-sl2) + [100-400mm lense](https://www.usa.canon.com/support/p/ef-100-400mm-f-4-5-5-6l-is-usm)
 
+# 2025-05-16
+
+## 20250516-AE07FA-97-0048
+
+https://globe.adsbexchange.com/?icao=AE07FA | Boeing C-17A Globemaster III
+
+![image](/aircraft/20250516-AE07FA-97-0048.jpg)
+
+---
+
 # 2025-05-14
 
 ## 20250514-ADFDC6-93-1459
