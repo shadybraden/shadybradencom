@@ -125,9 +125,9 @@ ShowToc: true
 - [x] Acts 10
 - [x] Acts 11
 #### 05/19/25
-- [ ] Acts 12
-- [ ] Acts 13
-- [ ] Acts 14
+- [x] Acts 12
+- [x] Acts 13
+- [x] Acts 14
 - [ ] Acts 15
 - [ ] Acts 16
 #### 05/26/25
