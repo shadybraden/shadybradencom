@@ -6,6 +6,36 @@ TocOpen: false
 
 These are all photos taken by me with a [Canon SL2](https://www.usa.canon.com/support/p/eos-rebel-sl2) + [100-400mm lense](https://www.usa.canon.com/support/p/ef-100-400mm-f-4-5-5-6l-is-usm)
 
+# 2025-05-24
+
+## Four Leaf Airshow 2025
+
+Temporary full-res download links:
+
+[⭐⭐⭐⭐⭐ - 10 pictures - 0.1GB](https://drive.proton.me/urls/PTXC96TDH8#cef0NipUT7VY)
+
+[⭐⭐⭐⭐ - 53 pictures - 0.5GB](https://drive.proton.me/urls/JX5QWJEG1C#RmphmOaiE9Yk)
+
+[⭐⭐⭐ - 206 pictures - 1.1GB](https://drive.proton.me/urls/67Q0XHE1AR#T0Fm7sqKjQQE)
+
+![image](/aircraft/FourLeaf1.jpg)
+![image](/aircraft/FourLeaf2.jpg)
+![image](/aircraft/FourLeaf3.jpg)
+![image](/aircraft/FourLeaf4.jpg)
+![image](/aircraft/FourLeaf5.jpg)
+![image](/aircraft/FourLeaf6.jpg)
+![image](/aircraft/FourLeaf7.jpg)
+![image](/aircraft/FourLeaf8.jpg)
+![image](/aircraft/FourLeaf9.jpg)
+![image](/aircraft/FourLeaf10.jpg)
+![image](/aircraft/FourLeaf11.jpg)
+![image](/aircraft/FourLeaf12.jpg)
+![image](/aircraft/FourLeaf13.jpg)
+![image](/aircraft/FourLeaf14.jpg)
+![image](/aircraft/FourLeaf15.jpg)
+![image](/aircraft/FourLeaf16.jpg)
+![image](/aircraft/FourLeaf17.jpg)
+
 # 2025-05-20
 
 ## 20250520-A34A3C-N31075
