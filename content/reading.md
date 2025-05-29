@@ -128,12 +128,12 @@ ShowToc: true
 - [x] Acts 12
 - [x] Acts 13
 - [x] Acts 14
-- [ ] Acts 15
-- [ ] Acts 16
+- [x] Acts 15
+- [x] Acts 16
 #### 05/26/25
-- [ ] Acts 17
-- [ ] Acts 18
-- [ ] Acts 19
+- [x] Acts 17
+- [x] Acts 18
+- [x] Acts 19
 - [ ] Acts 20
 - [ ] Acts 21
 #### 06/02/25
