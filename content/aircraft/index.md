@@ -6,6 +6,28 @@ TocOpen: false
 
 These are all photos taken by me with a [Canon SL2](https://www.usa.canon.com/support/p/eos-rebel-sl2) + [100-400mm lense](https://www.usa.canon.com/support/p/ef-100-400mm-f-4-5-5-6l-is-usm)
 
+# 2025-06-06
+
+## 20250606-A24B31-N247NE
+
+https://globe.adsbexchange.com/?icao=A24B31 | 2024 AIRBUS HELICOPTERS EC-145 MEDFLIGHT
+
+![image](/aircraft/20250606-A24B31-N247NE.jpg)
+
+## 20250606-A80A7C-N617TV
+
+https://globe.adsbexchange.com/?icao=A80A7C | AEROSPATIALE AS-350 Ecureuil
+
+![image](/aircraft/20250606-A80A7C-N617TV.jpg)
+
+## 20250606-A06153-N1231A
+
+https://globe.adsbexchange.com/?icao=A06153 | 2003 AEROSPATIALE AS-350 Ecureuil
+
+![image](/aircraft/20250606-A06153-N1231A.jpg)
+
+---
+
 # 2025-06-05
 
 ## 20250605-AE1D00-158570
