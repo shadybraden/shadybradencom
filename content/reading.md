@@ -141,7 +141,7 @@ ShowToc: true
 - [x] Acts 23
 - [x] Acts 24–25
 - [x] Acts 26
-- [ ] Acts 27
+- [x] Acts 27
 #### 06/09/25
 - [ ] Acts 28
 - [ ] Rom 1
