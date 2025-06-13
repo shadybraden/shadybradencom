@@ -147,7 +147,7 @@ ShowToc: true
 - [ ] Rom 1
 - [ ] Rom 2
 - [ ] Rom 3–4
-- [xx] Rom 5–6
+- [ ] Rom 5–6
 #### 06/16/25
 - [ ] Rom 7
 - [ ] Rom 8
