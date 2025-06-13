@@ -134,11 +134,11 @@ ShowToc: true
 - [x] Acts 17
 - [x] Acts 18
 - [x] Acts 19
-- [ ] Acts 20
-- [ ] Acts 21
+- [x] Acts 20
+- [x] Acts 21
 #### 06/02/25
-- [ ] Acts 22
-- [ ] Acts 23
+- [x] Acts 22
+- [x] Acts 23
 - [ ] Acts 24–25
 - [ ] Acts 26
 - [ ] Acts 27
@@ -147,7 +147,7 @@ ShowToc: true
 - [ ] Rom 1
 - [ ] Rom 2
 - [ ] Rom 3–4
-- [ ] Rom 5–6
+- [xx] Rom 5–6
 #### 06/16/25
 - [ ] Rom 7
 - [ ] Rom 8
