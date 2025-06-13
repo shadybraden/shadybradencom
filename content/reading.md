@@ -139,7 +139,7 @@ ShowToc: true
 #### 06/02/25
 - [x] Acts 22
 - [x] Acts 23
-- [ ] Acts 24–25
+- [x] Acts 24–25
 - [ ] Acts 26
 - [ ] Acts 27
 #### 06/09/25
