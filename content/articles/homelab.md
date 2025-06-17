@@ -32,7 +32,6 @@ I will be consolidating [Jeff Geerling's blog post on this](https://www.jeffgeer
 - Shutdown order:
 	- [x] Desktops
 	- [x] Holmie server
-	- [ ] Kubernetes cluster
 	- [ ] iMessage mac
 	- [ ] pfsense
 	- [x] Raspberry Pi3
