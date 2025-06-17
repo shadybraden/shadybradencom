@@ -143,10 +143,10 @@ ShowToc: true
 - [x] Acts 26
 - [x] Acts 27
 #### 06/09/25
-- [ ] Acts 28
-- [ ] Rom 1
-- [ ] Rom 2
-- [ ] Rom 3–4
+- [x] Acts 28
+- [x] Rom 1
+- [x] Rom 2
+- [x] Rom 3–4
 - [ ] Rom 5–6
 #### 06/16/25
 - [ ] Rom 7
