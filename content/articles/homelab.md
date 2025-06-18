@@ -128,5 +128,3 @@ The scripts are here:
 [90%](https://github.com/shadybraden/compose/blob/main/nut/nut.sh) | [50%](https://github.com/shadybraden/compose/blob/main/nut/quicknut.sh)
 
 Simply `sudo chmod 700 nut.sh` then `sudo su` then `crontab -e` then append: `*/5 * * * * /path/to/script/nut.sh`
-
-I will not be using these script with cron, but instead bundling them in docker, and using Komodo to schedule and deploy them. See [The GitOps non-Kubernetes Homelab](/articles/gitopshomelab/)
