@@ -147,11 +147,11 @@ ShowToc: true
 - [x] Rom 1
 - [x] Rom 2
 - [x] Rom 3–4
-- [ ] Rom 5–6
+- [x] Rom 5–6
 #### 06/16/25
-- [ ] Rom 7
-- [ ] Rom 8
-- [ ] Rom 9–10
+- [x] Rom 7
+- [x] Rom 8
+- [x] Rom 9–10
 - [ ] Rom 11
 - [ ] Rom 12–13
 #### 06/23/25
