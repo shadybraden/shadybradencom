@@ -6,6 +6,16 @@ TocOpen: false
 
 These are all photos taken by me with a [Canon SL2](https://www.usa.canon.com/support/p/eos-rebel-sl2) + [100-400mm lense](https://www.usa.canon.com/support/p/ef-100-400mm-f-4-5-5-6l-is-usm)
 
+# 2025-06-24
+
+## 20250624-508015-UR-82027
+
+https://globe.adsbexchange.com/?icao=508015 | ANTONOV An-124 Ruslan
+
+![image](/aircraft/20250624-508015-UR-82027.jpg)
+
+---
+
 # 2025-06-06
 
 ## 20250606-A24B31-N247NE
