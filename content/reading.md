@@ -152,10 +152,10 @@ ShowToc: true
 - [x] Rom 7
 - [x] Rom 8
 - [x] Rom 9–10
-- [ ] Rom 11
-- [ ] Rom 12–13
+- [x] Rom 11
+- [x] Rom 12–13
 #### 06/23/25
-- [ ] Rom 14–15
+- [x] Rom 14–15
 - [ ] Rom 16–1 Cor 1
 - [ ] 1 Cor 2–3
 - [ ] 1 Cor 4–5
