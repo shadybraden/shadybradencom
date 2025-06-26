@@ -6,6 +6,16 @@ TocOpen: false
 
 These are all photos taken by me with a [Canon SL2](https://www.usa.canon.com/support/p/eos-rebel-sl2) + [100-400mm lense](https://www.usa.canon.com/support/p/ef-100-400mm-f-4-5-5-6l-is-usm)
 
+# 2025-06-25
+
+## 20250625-A24B31-N247NE
+
+https://globe.adsbexchange.com/?icao=A24B31 | 2024 AIRBUS HELICOPTERS EC-145 MEDFLIGHT
+
+![image](/aircraft/20250625-A24B31-N247NE.jpg)
+
+---
+
 # 2025-06-24
 
 ## 20250624-508015-UR-82027
