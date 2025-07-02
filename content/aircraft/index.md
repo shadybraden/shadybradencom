@@ -6,6 +6,17 @@ TocOpen: false
 
 These are all photos taken by me with a [Canon SL2](https://www.usa.canon.com/support/p/eos-rebel-sl2) + [100-400mm lense](https://www.usa.canon.com/support/p/ef-100-400mm-f-4-5-5-6l-is-usm)
 
+# 2025-07-02
+
+## 20250702-A95F5C-N7027U
+
+https://globe.adsbexchange.com/?icao=A95F5C | 1998 ROBINSON R-44 Raven
+
+![image](/aircraft/20250702-A95F5C-N7027U.jpg)
+![image](/aircraft/20250702-A95F5C-N7027U-2.jpg)
+
+---
+
 # 2025-06-25
 
 ## 20250625-A24B31-N247NE
