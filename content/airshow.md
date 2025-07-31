@@ -8,27 +8,27 @@ TocOpen: true
 
 [The Blue Angles!!](https://www.youtube.com/embed/G_bYpzJ3Bfg) @ [thunder over new hampshire](https://thunderovernewhampshire.com) 
 
-### Sep 6th 12pm-4pm
+## Sep 6th 12pm-4pm
 
 302 Newmarket St, Newington, NH 03801
 
 (they start promptly at 12. gates open at 9am)
 
-#### Parking:
+### Parking:
 
-**SOLD OUT** of all parking, so, i think the best parking that we will be the least likely to get towed from is in the **trader joes parking lot**. its a large shopping center lot, and is a **~15 min walk** to the AF base.
-we for sure can do a drop off of those who dont wanna walk (i am happy to walk)
-also, if anyone has a better idea for parking, please bring it up.
+**Trader Joes parking lot** ([Google Maps](https://maps.app.goo.gl/5ScQPgNraCHZWZG19)) | ([OSM](geo:43.0930833,-70.8015556?z=17.0(Map%20Point)))
 
-I just got an email saying that they had secured more parking at the mall behind the shopping plaza. This would cost $30 per person though (for a bus pass). Parking there should be free, but is going to be an extra ~8 minute walk, making the above option better. ([read email here](https://shadybraden.com/airshow))
+It's a large shopping center lot, and is a **~15 min walk** to the AF base.
+We for sure can do a drop off of those who don't wanna walk
 
-#### Deets:
-there will be lots of food there, but i dont think they stop you from bringing food (or chairs). (no glass/cans or coolers)
+### Deets:
+
+There will be lots of food there, but I dont think they stop you from bringing food (or chairs). (no glass/cans or coolers)
 [Their FAQ](https://thunderovernewhampshire.com/frequently-asked-questions/)
 
 ---
 
-### Parking email:
+## Parking email:
 
 We are excited to announce that we have officially secured a limited amount of additional parking for the 2025 Thunder Over New Hampshire Air Show!
 
