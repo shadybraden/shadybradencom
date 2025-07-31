@@ -1,8 +1,30 @@
 ---
-title: airshow
+title: Airshow
+ShowToc: true
+TocOpen: true
 ---
 
-[Website](https://thunderovernewhampshire.com/) | [Parking passes (sold out likely)](https://thunderovernewhampshire.com/tickets/#parking-passes)
+# Who's ready for the next airshow!
+
+[The Blue Angles!!](https://www.youtube.com/embed/G_bYpzJ3Bfg) @ [thunder over new hampshire](https://thunderovernewhampshire.com) 
+
+### Sep 6th 12pm-4pm
+
+302 Newmarket St, Newington, NH 03801
+
+(they start promptly at 12. gates open at 9am)
+
+#### Parking:
+
+**SOLD OUT** of all parking, so, i think the best parking that we will be the least likely to get towed from is in the **trader joes parking lot**. its a large shopping center lot, and is a **~15 min walk** to the AF base.
+we for sure can do a drop off of those who dont wanna walk (i am happy to walk)
+also, if anyone has a better idea for parking, please bring it up.
+
+I just got an email saying that they had secured more parking at the mall behind the shopping plaza. This would cost $30 per person though (for a bus pass). Parking there should be free, but is going to be an extra ~8 minute walk, making the above option better. ([read email here](https://shadybraden.com/airshow))
+
+#### Deets:
+there will be lots of food there, but i dont think they stop you from bringing food (or chairs). (no glass/cans or coolers)
+[Their FAQ](https://thunderovernewhampshire.com/frequently-asked-questions/)
 
 ---
 
