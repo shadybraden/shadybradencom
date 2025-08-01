@@ -175,12 +175,12 @@ ShowToc: true
 #### 07/14/25
 - [x] 2 Cor 9–10
 - [x] 2 Cor 11–12
-- [ ] 2 Cor 13–Gal 1
-- [ ] Gal 2–3
-- [ ] Gal 4–5
+- [x] 2 Cor 13–Gal 1
+- [x] Gal 2–3
+- [x] Gal 4–5
 #### 07/21/25
-- [ ] Gal 6–Eph 1
-- [ ] Eph 2–3
+- [x] Gal 6–Eph 1
+- [x] Eph 2–3
 - [ ] Eph 4
 - [ ] Eph 5
 - [ ] Eph 6–Phil 1
