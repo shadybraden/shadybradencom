@@ -8,6 +8,16 @@ These are all photos taken by me with a [Canon SL2](https://www.usa.canon.com/su
 
 # 2025-08-07
 
+## 20250807-AE63C7-21-46091
+
+https://globe.adsbexchange.com/?icao=AE63C7 | BOEING 767-200 Pegasus
+
+![image](/aircraft/20250807-AE63C7-21-46091.jpg)
+
+---
+
+# 2025-08-07
+
 ## 20250807-AB3FBF-N824AH
 
 https://globe.adsbexchange.com/?icao=AB3FBF | AIRBUS HELICOPTERS EC-135/635 MASSACHUSETTS STATE POLICE
