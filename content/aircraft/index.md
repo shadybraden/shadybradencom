@@ -6,6 +6,16 @@ TocOpen: false
 
 These are all photos taken by me with a [Canon SL2](https://www.usa.canon.com/support/p/eos-rebel-sl2) + [100-400mm lense](https://www.usa.canon.com/support/p/ef-100-400mm-f-4-5-5-6l-is-usm)
 
+# 2025-08-07
+
+## 20250807-AB3FBF-N824AH
+
+https://globe.adsbexchange.com/?icao=AB3FBF | AIRBUS HELICOPTERS EC-135/635 MASSACHUSETTS STATE POLICE
+
+![image](/aircraft/20250807-AB3FBF-N824AH.jpg)
+
+---
+
 # 2025-07-02
 
 ## 20250702-A95F5C-N7027U
