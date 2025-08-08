@@ -8,6 +8,16 @@ These are all photos taken by me with a [Canon SL2](https://www.usa.canon.com/su
 
 # 2025-08-08
 
+## 20250808-AAE65E-N801JB
+
+https://globe.adsbexchange.com/?icao=AAE65E | 1979 BELL 206 JetRanger
+
+![image](/aircraft/20250808-AAE65E-N801JB.jpg)
+
+---
+
+# 2025-08-08
+
 ## 20250808-AE2238-2302
 
 https://globe.adsbexchange.com/?icao=AE2238 | CASA HC-144A Ocean Sentry
