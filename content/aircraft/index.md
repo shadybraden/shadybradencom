@@ -26,6 +26,21 @@ https://globe.adsbexchange.com/?icao=AE2036 | Airbus Helicopters UH-72A Lakota
 
 ---
 
+# 2025-07 Vacation
+
+![image](/aircraft/20250724_C-GHAP.jpg)
+![image](/aircraft/20250724_C-CHAP_SEAGULL.jpg)
+![image](/aircraft/20250721_N2400F.jpg)
+![image](/aircraft/20250721_N6080R.jpg)
+![image](/aircraft/20250721_N145TH.jpg)
+![image](/aircraft/20250721_N802TH.jpg)
+![image](/aircraft/20250721_N143TH.jpg)
+![image](/aircraft/20250717_MOON_AND_UNKNOWN.jpg)
+
+
+
+---
+
 # 2025-08-07
 
 ## 20250807-AE63C7-21-46091
