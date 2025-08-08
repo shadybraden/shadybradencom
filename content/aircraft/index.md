@@ -6,6 +6,26 @@ TocOpen: false
 
 These are all photos taken by me with a [Canon SL2](https://www.usa.canon.com/support/p/eos-rebel-sl2) + [100-400mm lense](https://www.usa.canon.com/support/p/ef-100-400mm-f-4-5-5-6l-is-usm)
 
+# 2025-08-08
+
+## 20250808-AE2238-2302
+
+https://globe.adsbexchange.com/?icao=AE2238 | CASA HC-144A Ocean Sentry
+
+![image](/aircraft/20250808-AE2238-2302.jpg)
+
+---
+
+# 2025-08-07
+
+## 20250807-AE2036-13-72295
+
+https://globe.adsbexchange.com/?icao=AE2036 | Airbus Helicopters UH-72A Lakota
+
+![image](/aircraft/20250807-AE2036-13-72295.jpg)
+
+---
+
 # 2025-08-07
 
 ## 20250807-AE63C7-21-46091
