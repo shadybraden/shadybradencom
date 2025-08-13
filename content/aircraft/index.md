@@ -6,6 +6,16 @@ TocOpen: false
 
 These are all photos taken by me with a [Canon SL2](https://www.usa.canon.com/support/p/eos-rebel-sl2) + [100-400mm lense](https://www.usa.canon.com/support/p/ef-100-400mm-f-4-5-5-6l-is-usm)
 
+# 2025-08-13
+
+## 20250813-ADFE48-94-00316
+
+https://globe.adsbexchange.com/?icao=ADFE48 | BEECH 200 Super King Air
+
+![image](/aircraft/20250813-ADFE48-94-00316.jpg)
+
+---
+
 # 2025-08-08
 
 ## 20250808-AAE65E-N801JB
