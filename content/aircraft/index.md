@@ -6,6 +6,22 @@ TocOpen: false
 
 These are all photos taken by me with a [Canon SL2](https://www.usa.canon.com/support/p/eos-rebel-sl2) + [100-400mm lense](https://www.usa.canon.com/support/p/ef-100-400mm-f-4-5-5-6l-is-usm)
 
+# 2025-08-14
+
+## 20250814-AE143D-05-1435
+
+https://globe.adsbexchange.com/?icao=AE143D | LOCKHEED MARTIN C-130J Super Hercules
+
+![image](/aircraft/20250814-AE143D-05-1435.jpg)
+
+## 20250814-AE143E-05-1436
+
+https://globe.adsbexchange.com/?icao=AE143E | LOCKHEED MARTIN C-130J Super Hercules
+
+![image](/aircraft/20250814-AE143E-05-1436.jpg)
+
+---
+
 # 2025-08-13
 
 ## 20250813-ADFE48-94-00316
