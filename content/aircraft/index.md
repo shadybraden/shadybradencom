@@ -6,6 +6,16 @@ TocOpen: false
 
 These are all photos taken by me with a [Canon SL2](https://www.usa.canon.com/support/p/eos-rebel-sl2) + [100-400mm lense](https://www.usa.canon.com/support/p/ef-100-400mm-f-4-5-5-6l-is-usm)
 
+# 2025-08-26
+
+## 20250826-C061E7-C-GLBY
+
+https://globe.adsbexchange.com/?icao=C061E7 | 2010 AIRBUS HELICOPTERS EC-130
+
+![image](/aircraft/20250826-C061E7-C-GLBY.jpg)
+
+---
+
 # 2025-08-14
 
 ## 20250814-AE143D-05-1435
