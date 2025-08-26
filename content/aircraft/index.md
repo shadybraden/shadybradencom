@@ -8,6 +8,12 @@ These are all photos taken by me with a [Canon SL2](https://www.usa.canon.com/su
 
 # 2025-08-26
 
+## 20250826-A4064C-N359AR
+
+https://globe.adsbexchange.com/?icao=A4064C | 1973 DE HAVILLAND DHC-6 Twin Otter - MTH9
+
+![image](/aircraft/20250826-A4064C-N359AR.jpg)
+
 ## 20250826-A45922-N38BZ
 
 https://globe.adsbexchange.com/?icao=A45922 | 1995 BELL 206 JetRanger
