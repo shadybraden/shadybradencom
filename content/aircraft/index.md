@@ -8,6 +8,18 @@ These are all photos taken by me with a [Canon SL2](https://www.usa.canon.com/su
 
 # 2025-08-26
 
+## 20250826-A45922-N38BZ
+
+https://globe.adsbexchange.com/?icao=A45922 | 1995 BELL 206 JetRanger
+
+![image](/aircraft/20250826-A45922-N38BZ.jpg)
+
+## 20250826-A6FEAD-N55SL
+
+https://globe.adsbexchange.com/?icao=A6FEAD | 2007 BELL 206 JetRanger
+
+![image](/aircraft/20250826-A6FEAD-N55SL.jpg)
+
 ## 20250826-C061E7-C-GLBY
 
 https://globe.adsbexchange.com/?icao=C061E7 | 2010 AIRBUS HELICOPTERS EC-130
