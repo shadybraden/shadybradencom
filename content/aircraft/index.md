@@ -6,6 +6,37 @@ TocOpen: false
 
 These are all photos taken by me with a [Canon SL2](https://www.usa.canon.com/support/p/eos-rebel-sl2) + [100-400mm lense](https://www.usa.canon.com/support/p/ef-100-400mm-f-4-5-5-6l-is-usm)
 
+# 2025-08-27
+
+## 20250827-AC4AB8-N891TD
+
+[Flight 1 adsbexchange AC4AB8](https://globe.adsbexchange.com/?icao=ac4ab8&lat=42.292&lon=-71.031&zoom=10.0&showTrace=2025-08-27&trackLabels)
+
+[Flight 2 adsbexchange ~274ab9](https://globe.adsbexchange.com/?icao=~274ab9&lat=42.297&lon=-70.883&zoom=9.8&showTrace=2025-08-27&trackLabels)
+
+![image](/aircraft/20250827-AC4AB8-N891TD.jpg)
+
+https://globe.adsbexchange.com/?icao=AC4AB8 | 2019 CESSNA 208 Caravan MASSACHUSETTS STATE POLICE
+
+Timeline:
+
+- 09:18:06 Took off at Plymouth Municipal Airport as `AC4AB8`
+- 09:24:33 Started circling above Brockton
+- 10:00:00 Stopped circling above Brockton
+- 10:17:40 Started circling above Worcester
+- 10:28:54 Stopped circling above Worcester
+- 10:44:47 Landed at Lawrence Municipal Airport
+- 11:22:55 Takeoff and ***First TIS-B Ping*** from Lawrence Municipal Airport as `~274ab9`
+- 11:29:01 Started circling above Lowell
+- 11:58:00 Adjusts course and ***VISUAL CONFIRMATION*** that `~274ab9`=`AC4AB8` (see photo above)
+- 13:11:29 Stopped circling above Lowell
+- 14:25:43 Landed at Plymouth Municipal Airport
+
+![image](/aircraft/20250827-AC4AB8.png)
+![image](/aircraft/20250827~274ab9.png)
+
+---
+
 # 2025-08-26
 
 ## 20250826-A4064C-N359AR
