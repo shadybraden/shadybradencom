@@ -1,6 +1,6 @@
 ---
 title: Aircraft
-ShowToc: true
+ShowToc: false
 TocOpen: false
 ---
 
