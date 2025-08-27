@@ -13,7 +13,7 @@ Version control. Infrastructure as code. Auto updates. All one one host, with ea
 
 This is my homelab.
 
-Say there is an update for a service I run on my server - I click a button, and it it applied. A file path changed? `git push`. Want branch protection or a proper test environment? Setup another server that takes the exact same config, just on a different branch. When the PR is tested and merged, it'll auto apply to production.
+Say there is an update for a service I run on my server - I click a button, and it is applied. A file path changed? `git push`. Want branch protection or a proper test environment? Setup another server that takes the exact same config, just on a different branch. When the PR is tested and merged, it'll auto apply to production.
 
 All of this sounds like your normal Kubernetes setup, with tools like Kustomize + ArgoCD, but this doesn't.
 
