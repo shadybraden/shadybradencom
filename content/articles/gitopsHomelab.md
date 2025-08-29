@@ -11,7 +11,9 @@ weight: 998
 
 Kubernetes is overkill.
 
-Sure it has its uses, but for a homelab? Na we can get the same benefits without its complexity (who needs high availability anyways?)
+Sure it has its uses, but for a homelab? Na we can get the same benefits without its complexity. Who needs high availability anyways?
+
+... Okay fair lots of people, but again, this is a [homelab](https://en.wikipedia.org/wiki/Home_server), so I don't need it...yet.
 
 Version control. Infrastructure as code. Auto updates. Easy expansion and freedom of choice for everything. All without Kubernetes.
 
