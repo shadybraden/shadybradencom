@@ -26,7 +26,7 @@ theme = 'PaperMod'
 
 [params.homeInfoParams]
     Title = "Welcome to my open source website"
-    Content = "Built with Hugo and running on Cloudflare"
+    Content = "Below are some of the things I am working on!"
 
 [[params.socialIcons]]
     name = "github"
