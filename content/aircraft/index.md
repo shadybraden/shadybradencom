@@ -6,6 +6,16 @@ TocOpen: false
 
 These are all photos taken by me and shot (mostly) with a [Canon SL2](https://www.usa.canon.com/support/p/eos-rebel-sl2) + [100-400mm lense](https://www.usa.canon.com/support/p/ef-100-400mm-f-4-5-5-6l-is-usm)
 
+# 2025-09-02
+
+## 20250902-A1DB33-N219CR
+
+https://globe.adsbexchange.com/?icao=A1DB33 | 2016 ROBINSON R-44 Raven
+
+![image](/aircraft/20250902-A1DB33-N219CR.jpg)
+
+---
+
 # 2025-08-27
 
 ## 20250827-AC4AB8-N891TD
