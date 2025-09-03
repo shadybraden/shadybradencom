@@ -26,6 +26,10 @@ We for sure can do a drop off of those who don't wanna walk
 There will be lots of food there, but I dont think they stop you from bringing food (or chairs). (no glass/cans or coolers)
 [Their FAQ](https://thunderovernewhampshire.com/frequently-asked-questions/)
 
+### Map:
+
+![map](/thunderovernewhampshire_map.jpg "thunderovernewhampshire_map.jpg")
+
 ---
 
 # Future Airshows
