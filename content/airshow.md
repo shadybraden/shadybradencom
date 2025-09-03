@@ -23,8 +23,18 @@ We for sure can do a drop off of those who don't wanna walk
 
 ### Deets:
 
-There will be lots of food there, but I dont think they stop you from bringing food (or chairs). (no glass/cans or coolers)
+There will be lots of food there, and their FAQ says [no Outside Food and Beverages](https://thunderovernewhampshire.com/prohibited-items/).
+
 [Their FAQ](https://thunderovernewhampshire.com/frequently-asked-questions/)
+
+- yes water bottles
+- yes normal umbrellas
+- yes wagons
+- YES SUNSCREEN
+- yes chairs
+- no glass/cans
+- no coolers
+
 
 ### Map:
 
