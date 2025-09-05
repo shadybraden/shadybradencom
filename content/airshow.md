@@ -8,11 +8,11 @@ TocOpen: true
 
 [The Blue Angles!!](https://www.youtube.com/embed/G_bYpzJ3Bfg) @ [thunder over new hampshire](https://thunderovernewhampshire.com) 
 
-## Sep 6th 12pm-4pm
+## Sep 6th 11am-3pm
 
 302 Newmarket St, Newington, NH 03801
 
-(they start promptly at 12. gates open at 9am)
+(they start promptly at 11. gates open at 8am) (***Blue Angles at 1:30***)
 
 ### Parking:
 
