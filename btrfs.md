@@ -1,0 +1,58 @@
+# How-to btrfs raid 1
+
+- [ ] wipe a drive:
+	- [ ] ***lsblk***
+	- [ ] `sfdisk --delete /dev/sda`
+- [ ] samsumg as ext4
+	- [ ] `lsblk`
+	- [ ] `sudo fdisk /dev/sda` (t to change type)
+	- [ ] `n` > rest defaults
+	- [ ] `w` to write
+	- [ ] now have partition
+	- [ ] `sudo mkfs.ext4 /dev/sda1` 
+	- [ ] put photos in
+- [ ] sandisk as btrfs
+	- [ ] `lsblk` 
+	- [ ] `sudo fdisk /dev/sda` 
+	- [ ] `n` > rest defaults
+	- [ ] `w` to write
+	- [ ] now have partition
+	- [ ] `sudo mkfs.btrfs /dev/sda1` 
+- [ ] put photo onto ext4
+- [ ] copy photo to btrfs
+- [ ] make samsung btrfs
+	- [ ] `lsblk` 
+	- [ ] `findmnt -n -o FSTYPE "$(pwd)"` to check the current dir's file system type
+	- [ ] delete: `sudo sfdisk --delete /dev/sda` 
+	- [ ] `sudo fdisk /dev/sda` 
+	- [ ] `n` > rest defaults
+	- [ ] `w` to write
+	- [ ] now have partition
+	- [ ] `sudo mkfs.btrfs /dev/sda1` 
+- [ ] setup raid between the two
+	- [ ] photos on sandisk /dev/sda1
+	- [ ] mount photos `sudo mount /dev/sda1 /data/mnt`
+	- [ ] add sdb1 to it `sudo btrfs device add /dev/sdb1 /data/mnt -f`
+	- [ ] balance `sudo btrfs balance start -dconvert=raid1 -mconvert=raid1 /data/mnt`
+	- [ ] get id `sudo blkid --match-token TYPE=btrfs`
+	- [ ] `sudo nano /etc/fstab` > `UUID=xxx-xxx-xxx    /mnt/raid btrfs    defaults,autodefrag    0 2`
+- [ ] cron:
+	- [ ] `0 1 * * * btrfs device stats /data/mnt 2>&1 | curl -sS -H "X-Priority: 1" --data-binary @- https://ntfy.holmlab.org/topic` 
+
+# How-to btrfs raid 1 RESTORE
+
+- [ ] Restore: (most likely dont need to do this)
+	- [ ] `sudo mount /dev/sda1 /home/shady/mnt` 
+	- [ ] failed: `sudo dmesg | tail -n 50` > `devid 1 uuid xxx is missing` 
+		- [ ] `sudo btrfs filesystem show` > will confirm one is missing
+		- [ ] MOUNT DEGRADED: `sudo mount -t btrfs -o degraded /dev/sda1 /home/shady/mnt` just for temp fix
+		- [ ] when done: `sudo umount /dev/sda1`
+- [ ] add a replacement drive:
+	- [ ] `sudo btrfs filesystem show` 
+	- [ ] `sudo btrfs device stats /data/mnt` 
+	- [ ] if `/dev/sda1` is gone, and just plugged in `/dev/sdc` & is btrfs
+	- [ ] `sudo btrfs replace start /dev/sdb1 /dev/sdc1 /data/mnt` > use `-f` once sure
+	- [ ] if `target device smaller than source device`:
+		- [ ] `sudo btrfs replace start 1 /dev/sdc1 /data/mnt` (where `1` is the `devid` from `sudo btrfs filesystem show`)
+	- [ ] `sudo btrfs replace status /data/mnt`
+		- [ ] `sudo btrfs balance start -dconvert=raid1 -mconvert=raid1 /data/mnt` 
