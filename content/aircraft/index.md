@@ -6,6 +6,34 @@ TocOpen: false
 
 These are all photos taken by me and shot (mostly) with a [Canon SL2](https://www.usa.canon.com/support/p/eos-rebel-sl2) + [100-400mm lense](https://www.usa.canon.com/support/p/ef-100-400mm-f-4-5-5-6l-is-usm)
 
+# 2025-09-07
+
+## Thunder Over New Hampshire 2025
+
+![image](/aircraft/2025_ThunderNH02.jpg)
+![image](/aircraft/2025_ThunderNH01.jpg)
+![image](/aircraft/2025_ThunderNH23.jpg)
+![image](/aircraft/2025_ThunderNH22.jpg)
+![image](/aircraft/2025_ThunderNH03.jpg)
+![image](/aircraft/2025_ThunderNH04.jpg)
+![image](/aircraft/2025_ThunderNH05.jpg)
+![image](/aircraft/2025_ThunderNH08.jpg)
+![image](/aircraft/2025_ThunderNH07.jpg)
+![image](/aircraft/2025_ThunderNH06.jpg)
+![image](/aircraft/2025_ThunderNH21.jpg)
+![image](/aircraft/2025_ThunderNH09.jpg)
+![image](/aircraft/2025_ThunderNH15.jpg)
+![image](/aircraft/2025_ThunderNH10.jpg)
+![image](/aircraft/2025_ThunderNH14.jpg)
+![image](/aircraft/2025_ThunderNH13.jpg)
+![image](/aircraft/2025_ThunderNH12.jpg)
+![image](/aircraft/2025_ThunderNH11.jpg)
+![image](/aircraft/2025_ThunderNH17.jpg)
+![image](/aircraft/2025_ThunderNH16.jpg)
+![image](/aircraft/2025_ThunderNH18.jpg)
+![image](/aircraft/2025_ThunderNH19.jpg)
+![image](/aircraft/2025_ThunderNH20.jpg)
+
 # 2025-09-05
 
 ## 20250905-A45922-N38BZ
