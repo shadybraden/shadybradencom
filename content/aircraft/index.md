@@ -6,6 +6,16 @@ TocOpen: false
 
 These are all photos taken by me and shot (mostly) with a [Canon SL2](https://www.usa.canon.com/support/p/eos-rebel-sl2) + [100-400mm lense](https://www.usa.canon.com/support/p/ef-100-400mm-f-4-5-5-6l-is-usm)
 
+# 2025-09-08
+
+## 20250908-AE5F9A-18-46047
+
+https://globe.adsbexchange.com/?icao=AE5F9A | Boeing KC-46A Pegasus
+
+![image](/aircraft/20250908-AE5F9A-18-46047.jpg)
+
+---
+
 # 2025-09-07
 
 ## Thunder Over New Hampshire 2025
