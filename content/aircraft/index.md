@@ -34,6 +34,8 @@ These are all photos taken by me and shot (mostly) with a [Canon SL2](https://ww
 ![image](/aircraft/2025_ThunderNH19.jpg)
 ![image](/aircraft/2025_ThunderNH20.jpg)
 
+[Photos that didn't quite make the cut](https://drive.proton.me/urls/GSY1HPKPHG#SrDThSaQIu3I)
+
 # 2025-09-05
 
 ## 20250905-A45922-N38BZ
