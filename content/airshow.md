@@ -6,12 +6,11 @@ TocOpen: true
 
 # Future Airshows
 
-[2025 Airshow Calendar](https://www.milavia.net/airshows/calendar/showdates-2025-north_america.html) | [2026 Airshow Calendar](https://www.milavia.net/airshows/calendar/showdates-2026-north_america.html)
+[Thunderbirds schedule](https://www.airforce.com/thunderbirds/schedule)
 
-TLDR:
+- May 24-25: Wantagh, NY
+- SEPTEMBER 5-7: Mirabel, QC, Canada
 
-## 2026 Jones Beach:
+[Blue Angels schedule](https://www.blueangels.navy.mil/show/)
 
-July 5-6 (Sunday + Monday)
-
-https://www.fourleafairshow.com/
+- July 5-6 | Wantagh, NY | Four-Leaf Air Show
