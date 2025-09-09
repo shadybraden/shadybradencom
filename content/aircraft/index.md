@@ -30,6 +30,7 @@ https://globe.adsbexchange.com/?icao=AE5F9A | Boeing KC-46A Pegasus
 
 ## Thunder Over New Hampshire 2025
 
+![image](/aircraft/2025_ThunderNH_extra_16x9_edited.jpg)
 ![image](/aircraft/2025_ThunderNH02.jpg)
 ![image](/aircraft/2025_ThunderNH01.jpg)
 ![image](/aircraft/2025_ThunderNH23.jpg)
