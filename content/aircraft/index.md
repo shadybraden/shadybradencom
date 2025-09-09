@@ -14,10 +14,6 @@ https://globe.adsbexchange.com/?icao=AE056B | Lockheed C-5M Super Galaxy
 
 ![image](/aircraft/20250908-AE056B-86-0014.jpg)
 
----
-
-# 2025-09-08
-
 ## 20250908-AE5F9A-18-46047
 
 https://globe.adsbexchange.com/?icao=AE5F9A | Boeing KC-46A Pegasus
