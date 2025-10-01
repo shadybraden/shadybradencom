@@ -6,6 +6,16 @@ TocOpen: false
 
 These are all photos taken by me and shot (mostly) with a [Canon SL2](https://www.usa.canon.com/support/p/eos-rebel-sl2) + [100-400mm lense](https://www.usa.canon.com/support/p/ef-100-400mm-f-4-5-5-6l-is-usm)
 
+# 2025-01-01
+
+## 20250101-AE5C5F-169333
+
+https://globe.adsbexchange.com/?icao=AE5C5F | BOEING P-8 Poseidon
+
+![image](/aircraft/20250101-AE5C5F-169333.jpg)
+
+---
+
 # 2025-09-08
 
 ## 20250908-AE056B-86-0014
