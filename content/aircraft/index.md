@@ -6,6 +6,22 @@ TocOpen: false
 
 These are all photos taken by me and shot (mostly) with a [Canon SL2](https://www.usa.canon.com/support/p/eos-rebel-sl2) + [100-400mm lense](https://www.usa.canon.com/support/p/ef-100-400mm-f-4-5-5-6l-is-usm)
 
+# 2025-10-17
+
+## 20251017-AE01D8-61-2662
+
+https://globe.adsbexchange.com/?icao=AE01D8 | Boeing RC-135S Cobra Ball
+
+![image](/aircraft/20251017-AE01D8-61-2662.jpg)
+
+## 20251017-3F5342-54+35
+
+https://globe.adsbexchange.com/?icao=3F5342 | AIRBUS A-400M
+
+![image](/aircraft/20251017-3F5342-54+35.jpg)
+
+---
+
 # 2025-10-15
 
 ## 20251015-A95234-N70
