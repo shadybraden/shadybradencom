@@ -44,6 +44,7 @@ theme = 'PaperMod'
 [params]
     defaultTheme = 'dark'
     favicon = "/favicon.ico"
+    css = ["css/main.css"]
     mainSections = ["articles"]
     ShowCodeCopyButtons = 'true'
 #    ShowBreadCrumbs = 'true'
