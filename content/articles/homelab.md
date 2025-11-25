@@ -17,7 +17,9 @@ This site will serve as a place for specific projects and things that need a few
 
 Here is a picture of my whole homelab:
 
-![homelab](/homelab.jpg)
+![homelab](/homelab.png)
+![wiring](/wiring.png)
+![antenna](/antenna.png)
 
 ---
 
