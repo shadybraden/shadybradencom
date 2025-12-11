@@ -6,6 +6,16 @@ TocOpen: false
 
 These are all photos taken by me and shot (mostly) with a [Canon SL2](https://www.usa.canon.com/support/p/eos-rebel-sl2) + [100-400mm lense](https://www.usa.canon.com/support/p/ef-100-400mm-f-4-5-5-6l-is-usm)
 
+# 2025-12-11
+
+## 20251211-AE5AEE-08-20131
+
+https://globe.adsbexchange.com/?icao=AE5AEE | SIKORSKY UH-60 Black Hawk
+
+![image](/aircraft/20251211-AE5AEE-08-20131.jpg)
+
+---
+
 # 2025-12-08
 
 ## 20251208-A80A7C-N617TV
