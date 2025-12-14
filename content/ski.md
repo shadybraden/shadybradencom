@@ -1,5 +1,5 @@
 ---
-title: Mountains and Conditions
+title: Mtn Conditions
 ---
 
 12/14/25 2:00:00pm
