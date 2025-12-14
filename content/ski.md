@@ -6,7 +6,7 @@ title: Mtn Conditions
 
 | Mtn                                                                        | Base              | Middle            | Summit            | Lifts | Runs |
 | -------------------------------------------------------------------------- | ----------------- | ----------------- | ----------------- | ----- | ---- |
-| [Stowe](https://www.onthesnow.com/vermont/stowe-mountain-resort/skireport) | 18" Packed Powder | 28" Packed Powder | 40" Packed Powder | 50%   | 63%  |
+| [Stowe](https://www.onthesnow.com/vermont/stowe-mountain-resort/skireport) | 18" Packed Powder | 28" Packed Powder | 40" Packed Powder | 50% | 67% |
 | mtn2                                                                       | x                 | x                 | x                 | x     | x    |
 
 ---
