@@ -2,7 +2,7 @@
 title: Mountains and Conditions
 ---
 
-updated 12/14/25 2:00:00 pm. Data from onthesnow.com
+Updated 12/14/25 2:00:00 pm. Data from onthesnow.com
 
 | Mtn                                                                        | base              | mid_snow          | summit_snow       | lifts_open | runs_open |
 | -------------------------------------------------------------------------- | ----------------- | ----------------- | ----------------- | ---------- | --------- |
