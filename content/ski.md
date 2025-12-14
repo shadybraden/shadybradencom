@@ -1,24 +1,8 @@
 ---
-title: Ski
-ShowToc: true
-TocOpen: true
+title: Mountains and Conditions
 ---
 
-# Mountains
-
-These are ranked by this [source](https://www.reddit.com/r/icecoast/comments/oloe9y/ice_coast_ski_resort_tier_list/) 
-
-| ***[Epic](https://www.epicpass.com/passes/epic-pass.aspx)*** | ***[Indy](https://www.indyskipass.com/our-resorts/east)*** |
-| ------------------------------------------------------------ | ---------------------------------------------------------- |
-| Stowe                                                        | Jay                                                        |
-| Monte Sainte Anne                                            | Cannon                                                     |
-| Stoneham                                                     | Saddleback                                                 |
-| Mt Snow                                                      | Magic                                                      |
-| Wildcat                                                      | Bolton                                                     |
-| Okemo                                                        | Waterville Valley                                          |
-| Hunter                                                       | Berkshire East                                             |
-| Attitash                                                     | Catamount                                                  |
-| Sunapee                                                      | Middlebury Snowbowl                                        |
-| Crotched                                                     | Black Mountain                                             |
-|                                                              | Titus                                                      |
-|                                                              | Mount Abram                                                |
+| Mtn   | base_snow | base_quality  | mid_snow | mid_quality | summit_snow | summit_quality | lifts_open | runs_open |
+| ----- | --------- | ------------- | -------- | ----------- | ----------- | -------------- | ---------- | --------- |
+| Stowe | 18        | Packed Powder | 28       | Powder      | 40          | Powder         | 50%        | 63%       |
+| mtn2  | x         | x             | x        | x           | x           | x              | x          | x         |
