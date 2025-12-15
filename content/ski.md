@@ -4,7 +4,7 @@ title: Mtn Conditions
 
 12/15/25 11:47:40am
 
-| Mtn                                                                              | Base              | Middle            | Summit            | Lifts | Runs |
+| Mtn | Lifts | Runs | Base | Middle | Summit |
 | -------------------------------------------------------------------------------- | ----------------- | ----------------- | ----------------- | ----- | ---- |
 | [Stowe](https://www.onthesnow.com/vermont/stowe-mountain-resort/skireport) | 75% / 95/126 open | 50% / 6/12 open | 18" Packed Powder | 28" Packed Powder | 40" Packed Powder |
 | [Crotched](https://www.onthesnow.com/new-hampshire/crotched-mountain/skireport) | 32% / 8/25 open | N/A / 0/0 open | N/A" N/A | 16" Packed Powder | N/A" N/A |
