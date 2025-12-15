@@ -7,7 +7,7 @@ title: Mtn Conditions
 | Mtn                                                                              | Base              | Middle            | Summit            | Lifts | Runs |
 | -------------------------------------------------------------------------------- | ----------------- | ----------------- | ----------------- | ----- | ---- |
 | [Stowe](https://www.onthesnow.com/vermont/stowe-mountain-resort/skireport) | 18" Packed Powder | 28" Packed Powder | 40" Packed Powder | 50% | 75% |
-| [Crotched](https://www.onthesnow.com/vermont/crotched-mountain-resort/skireport) | N/A" N/A | 16" Packed Powder | N/A" N/A | N/A | 32% |
+| [Crotched](https://www.onthesnow.com/new-hampshire/crotched-mountain/skireport) | N/A" N/A | 16" Packed Powder | N/A" N/A | N/A | 32% |
 | [Mt Snow](https://www.onthesnow.com/vermont/mount-snow/skireport)                |                   |                   |                   |       |      |
 | [Wildcat](https://www.onthesnow.com/new-hampshire/wildcat-mountain/skireport)    |                   |                   |                   |       |      |
 | [Hunter](https://www.onthesnow.com/new-york/hunter-mountain/skireport)           |                   |                   |                   |       |      |
