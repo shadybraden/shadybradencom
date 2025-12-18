@@ -6,6 +6,18 @@ TocOpen: false
 
 These are all photos taken by me and shot (mostly) with a [Canon SL2](https://www.usa.canon.com/support/p/eos-rebel-sl2) + [100-400mm lense](https://www.usa.canon.com/support/p/ef-100-400mm-f-4-5-5-6l-is-usm)
 
+# 2025-12-18
+
+## 20251218-A2F434-N29M
+
+https://globe.adsbexchange.com/?icao=A2F434 | 1973 BEECH 90 King Air
+
+![image](/aircraft/20251218-A2F434-N29M-0.jpg)
+![image](/aircraft/20251218-A2F434-N29M-1.jpg)
+![image](/aircraft/20251218-A2F434-N29M-2.jpg)
+
+---
+
 # 2025-12-11
 
 ## 20251211-AE5AEE-08-20131
