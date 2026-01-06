@@ -11,7 +11,6 @@ weight: 3
 ---
 
 Click the pin in the top right, then check the box to show hiding zones.
-Make sure the radius is set to `0.25` and the types of stops are `Railway Stations` and `Railway Halts` 
 
 The site caches your changes, so you should be able to close the site and reopen the app again (the above link will reset it to start) and resume where you were.
 However, just so you don't loose progress, maybe have multiple people do the mapping.
