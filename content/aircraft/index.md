@@ -6,6 +6,16 @@ TocOpen: false
 
 These are all photos taken by me and shot (mostly) with a [Canon SL2](https://www.usa.canon.com/support/p/eos-rebel-sl2) + [100-400mm lense](https://www.usa.canon.com/support/p/ef-100-400mm-f-4-5-5-6l-is-usm)
 
+# 2026-01-09
+
+## 20260109-AE7458-170042
+
+https://globe.adsbexchange.com/?icao=AE7458 | Boeing C-40A Clipper
+
+![image](/aircraft/20260109-AE7458-170042.jpg)
+
+---
+
 # 2025-12-18
 
 ## 20251218-A2F434-N29M
