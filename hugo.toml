@@ -36,7 +36,7 @@ theme = 'PaperMod'
     url = "https://www.linkedin.com/in/bradenholm"
 [[params.socialIcons]]
   name = "cv"
-  url = "https://resume.holmlab.org/braden/holm"
+  url = "https://rxresu.me/shadybraden/holm"
 
 [params]
     defaultTheme = 'dark'
