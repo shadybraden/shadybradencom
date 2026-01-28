@@ -35,11 +35,8 @@ theme = 'PaperMod'
     name = "linkedin"
     url = "https://www.linkedin.com/in/bradenholm"
 [[params.socialIcons]]
-    name = "pixelfed"
-    url = "https://pixelfed.social/shadybraden"
-[[params.socialIcons]]
-    name = "bluesky"
-    url = "https://bsky.app/profile/shadybraden.com"
+  name = "cv"
+  url = "https://resume.holmlab.org/braden/holm"
 
 [params]
     defaultTheme = 'dark'
