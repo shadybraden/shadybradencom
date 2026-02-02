@@ -6,6 +6,16 @@ TocOpen: false
 
 These are all photos taken by me and shot (mostly) with a [Canon SL2](https://www.usa.canon.com/support/p/eos-rebel-sl2) + [100-400mm lense](https://www.usa.canon.com/support/p/ef-100-400mm-f-4-5-5-6l-is-usm)
 
+# 2026-02-02
+
+## 20260202-A80A7C-N617TV
+
+https://globe.adsbexchange.com/?icao=A80A7C | AEROSPATIALE AS-350 Ecureuil
+
+![image](/aircraft/20260202-A80A7C-N617TV.jpg)
+
+---
+
 # 2026-01-22
 
 ## 20260122-AE55E2-n/a
