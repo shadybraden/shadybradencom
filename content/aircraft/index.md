@@ -6,6 +6,17 @@ TocOpen: false
 
 These are all photos taken by me and shot (mostly) with a [Canon SL2](https://www.usa.canon.com/support/p/eos-rebel-sl2) + [100-400mm lense](https://www.usa.canon.com/support/p/ef-100-400mm-f-4-5-5-6l-is-usm)
 
+# 2026-02-12
+
+## 20260212-AE5299-09-08790
+
+https://globe.adsbexchange.com/?icao=AE5299 | BOEING-VERTOL CH-47 Chinook
+
+![image](/aircraft/20260212-AE5299-09-08790_0.jpg)
+![image](/aircraft/20260212-AE5299-09-08790_1.jpg)
+
+---
+
 # 2026-02-02
 
 ## 20260202-A80A7C-N617TV
