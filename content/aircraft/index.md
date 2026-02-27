@@ -6,6 +6,35 @@ TocOpen: false
 
 These are all photos taken by me and shot (mostly) with a [Canon SL2](https://www.usa.canon.com/support/p/eos-rebel-sl2) + [100-400mm lense](https://www.usa.canon.com/support/p/ef-100-400mm-f-4-5-5-6l-is-usm)
 
+# 2026-02-27
+
+## 20260227-3F64F6-54+21
+
+https://globe.adsbexchange.com/?icao=3F64F6 | AIRBUS A-400M
+
+![image](/aircraft/20260227-3F64F6-54+21.jpg)
+
+## 20260227-39D2A7-F-HUVH
+
+https://globe.adsbexchange.com/?icao=39D2A7 | AIRBUS A-350-900
+
+![image](/aircraft/20260227-39D2A7-F-HUVH.jpg)
+
+## 20260227-A8FFD2-N6792N
+
+https://globe.adsbexchange.com/?icao=A8FFD2 | 1968 MOONEY M-20
+
+![image](/aircraft/20260227-A8FFD2-N6792N.jpg)
+![image](/aircraft/20260227-A8FFD2-N6792N+20260227-A8FFD2-N6792N.jpg)
+
+## 20260227-~782178-NA
+
+https://globe.adsbexchange.com/?icao=~782178 | Unknown
+
+![image](/aircraft/20260227-~782178-NA.jpg)
+
+---
+
 # 2026-02-12
 
 ## 20260212-AE5299-09-08790
