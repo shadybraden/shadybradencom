@@ -6,6 +6,24 @@ TocOpen: false
 
 These are all photos taken by me and shot (mostly) with a [Canon SL2](https://www.usa.canon.com/support/p/eos-rebel-sl2) + [100-400mm lense](https://www.usa.canon.com/support/p/ef-100-400mm-f-4-5-5-6l-is-usm)
 
+# 2026-03-18
+
+## 20260318-AE6E80-11-3013
+
+https://globe.adsbexchange.com/?icao=AE6E80 | DORNIER 328 DAGGR33
+
+![image](/aircraft/20260318-AE6E80-11-3013.jpg)
+
+## 20260318-AC4AB8-N891TD
+
+https://globe.adsbexchange.com/?icao=AC4AB8 | 2019 CESSNA 208 Caravan MASSACHUSETTS STATE POLICE
+
+As https://globe.adsbexchange.com/?icao=~275dcd
+
+![image](/aircraft/20260318-AC4AB8-N891TD.jpg)
+
+---
+
 # 2026-03-02
 
 ## 20260302-A999DF-N718BA
