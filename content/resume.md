@@ -5,7 +5,7 @@ ShowToc: true
 
 📧 bradenholm@shady.icu | 🗺️ Greater Boston | 🌐 shadybraden.com | [GitHub](https://github.com/shadybraden) | [LinkedIn](https://www.linkedin.com/in/bradenholm)
 
-[PDF Resume](/Holm%20Braden%20Resume.pdf)
+[PDF Resume](/Holm_Braden_Resume.pdf)
 
 ---
 
