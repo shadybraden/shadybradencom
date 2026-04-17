@@ -518,14 +518,6 @@ https://globe.adsbexchange.com/?icao=AB3FBF | AIRBUS HELICOPTERS EC-135/635 MASS
 
 ## Four Leaf Airshow 2025
 
-Temporary full-res download links:
-
-[⭐⭐⭐⭐⭐ - 10 pictures - 0.1GB](https://drive.proton.me/urls/PTXC96TDH8#cef0NipUT7VY)
-
-[⭐⭐⭐⭐ - 53 pictures - 0.5GB](https://drive.proton.me/urls/JX5QWJEG1C#RmphmOaiE9Yk)
-
-[⭐⭐⭐ - 206 pictures - 1.1GB](https://drive.proton.me/urls/67Q0XHE1AR#T0Fm7sqKjQQE)
-
 ![image](/aircraft/FourLeaf1.jpg)
 ![image](/aircraft/FourLeaf2.jpg)
 ![image](/aircraft/FourLeaf3.jpg)
