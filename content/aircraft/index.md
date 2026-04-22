@@ -6,6 +6,25 @@ TocOpen: false
 
 These are all photos taken by me and shot (mostly) with a [Canon SL2](https://www.usa.canon.com/support/p/eos-rebel-sl2) + [100-400mm lense](https://www.usa.canon.com/support/p/ef-100-400mm-f-4-5-5-6l-is-usm)
 
+# 2026-04-21
+
+## 20260421-A3584A-N31419
+
+https://globe.adsbexchange.com/?icao=A3584A | 2006 ROBINSON R-44 Raven - Mosquito Control Project
+
+![image](/aircraft/20260421-A3584A-N31419-1.jpg)
+![image](/aircraft/20260421-A3584A-N31419-2.jpg)
+![image](/aircraft/20260421-A3584A-N31419-3.jpg)
+![image](/aircraft/20260421-A3584A-N31419-4.jpg)
+
+## 20260421-ADB392-N982LF
+
+https://globe.adsbexchange.com/?icao=ADB392 | 2019 AIRBUS HELICOPTERS EC-145 - Life Flight
+
+![image](/aircraft/20260421-ADB392-N982LF.jpg)
+
+---
+
 # 2026-03-18
 
 ## 20260318-AE6E80-11-3013
