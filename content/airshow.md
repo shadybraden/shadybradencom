@@ -6,7 +6,7 @@ TocOpen: false
 
 https://www.fourleafairshow.com/
 
-## ***JULY 5-6***, 2026 (Sunday-Monday)
+## ***JULY 5***, 2026 (Sunday-Monday)
 
 10am-3pm, so carpool and pack a lunch!
 
