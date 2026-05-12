@@ -8,13 +8,13 @@
     <header></header>
     <main>
 
-<h1>Capture the Flag (+tag)</h1>
+<h1>Capture the Braden (name WIP)</h1>
 
 <style>
     .random-button {
         padding: 20px 40px;
         font-size: 1.5rem;
-        background-color: #2b772e;
+        background-color:rgb(115, 19, 199);
         color: white;
         border: none;
         border-radius: 25px;
@@ -22,7 +22,7 @@
         transition: background-color 0.3s;
     }
     .random-button:hover {
-        background-color: rgb(23, 85, 27);
+        background-color: rgb(87, 14, 151);
     }
     .random-button:active {
         background-color: #5b2c1e;
@@ -33,6 +33,31 @@
     Random Challenge
 </button>
 
+<style>
+    .poi-button {
+        padding: 5px 15px;
+        font-size: 1.5rem;
+        background-color: rgb(174, 90, 202);
+        color: white;
+        border: none;
+        border-radius: 25px;
+        cursor: pointer;
+        transition: background-color 0.3s;
+    }
+    .poi-button:hover {
+        background-color: rgb(124, 64, 144);
+    }
+    .poi-button:active {
+        background-color: #5b2c1e;
+    }
+</style>
+
+<br><br>
+
+<button class="poi-button" onclick="navigateToRandompoi()">
+    1 New POI
+</button>
+
 <script>
     function navigateToRandomNumberPage() {
         const max = 97;
@@ -41,8 +66,18 @@
         window.location.href = `/challenge/${randomNumber}`;
     }
 </script>
+
+<script>
+    function navigateToRandompoi() {
+        const max = 2;
+        const min = 1;
+        const randomNumber = Math.floor(Math.random() * (max - min + 1)) + min;
+        window.location.href = `/poi/${randomNumber}`;
+    }
+</script>
+
 <br>
-<a href="/hideandseek/">For hide+seek click here</a>
+<!--<a href="/hideandseek/">For hide+seek click here</a>-->
 </main>
     <footer><br></footer>
   </body>

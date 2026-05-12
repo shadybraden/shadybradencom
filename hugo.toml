@@ -15,7 +15,7 @@ theme = 'PaperMod'
     weight = 3
 [[menu.main]]
     identifier = "Jetlag"
-    name = "Jetlag(ish)"
+    name = "CtB (WIP)"
     url = "/jetlag/"
     weight = 4
 [[menu.main]]
