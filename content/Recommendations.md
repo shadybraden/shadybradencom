@@ -32,3 +32,39 @@ Linux. They are all the same, just pick a popular one.
 Grapheneos. 
 
 If you don't care about control, privacy or being able to do what you want with a device, just get an iPhone.
+
+# Software
+
+## Browsers
+
+None.
+
+Well if you have to:
+
+### Computer:
+
+- Brave
+	- Pros: best blocking. good security
+	- Cons: cluttered and busy.....like really cluttered
+- Helium
+	- Pros: no clutter. good blocking. most like normal chrome
+	- Cons: beta, and no auto-updates (yet).
+
+### Phone:
+
+- Vanadium
+	- Pros: no clutter. minimal blocking. most like normal chrome. best security
+	- Cons: minimal built-in blocking
+- IronFox:
+	- Pros: best security. best blocking
+	- Cons: a bit clunky to use
+- Brave
+	- Pros: best blocking. good security
+	- Cons: cluttered and busy.....like really cluttered
+
+### Others:
+
+Hardened browsers:
+- Tor
+- Mullvad browser
+- Librewolf
