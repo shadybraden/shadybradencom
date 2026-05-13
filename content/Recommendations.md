@@ -1,6 +1,8 @@
 ---
 title: Recommendations
 draft: "false"
+ShowToc: true
+TocOpen: true
 ---
 This is an evolving list of products/services I recomend. 
 
