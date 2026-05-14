@@ -2,7 +2,7 @@
 draft: false
 tags:
 - jetlag
-title: POIs for starting the game
+title: Targets for starting the game
 weight: 5
 ShowToc: false
 ---

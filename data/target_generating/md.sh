@@ -1,11 +1,11 @@
 #!/bin/bash
 
 # this is for converting a text file into each html page.
-# take a file (pois.md in this dir) and put the poi then points on alternating lines
+# take a file (pois.md in this dir) and put the target then points on alternating lines
 # then the output goes into this same directory
 
 # Input file name
-input_file="poi.md"
+input_file="target.md"
 # Initialize variables
 counter=1
 # Read the pois.md file line by line
@@ -17,7 +17,7 @@ while IFS= read -r line1; do
     echo "draft: false" >> "$output_file"
     echo "tags:" >> "$output_file"
     echo "- poi" >> "$output_file"
-    echo "title: 'POI:'" >> "$output_file"
+    echo "title: 'Target:'" >> "$output_file"
     echo "---" >> "$output_file"
     echo "## ${line1}" >> "$output_file"
     echo "[Back](/jetlag) " >> "$output_file"

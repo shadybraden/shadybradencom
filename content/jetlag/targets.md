@@ -2,16 +2,16 @@
 draft: true
 tags:
 - jetlag
-title: POIs
+title: Targets
 weight: 1
 ShowToc: false
 ---
 
-You can choose which POI anytime and change that decision anytime
+You can choose which Target anytime and change that decision anytime
 
 See [here](/jetlag/rules/#points) for scoring specifics
 
-### Boston POIs:
+### Boston Targets:
 
 | Points: | Location                                                                        | Item                                                                                                                                                                                                                                                         |
 | ------- | ------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -35,5 +35,5 @@ See [here](/jetlag/rules/#points) for scoring specifics
 | 1       | [Museum of Science](https://maps.app.goo.gl/2vBdHneC9ZGcHPwv9)                  | a photo of all the group and some electronks component                                                                                                                                                                                                       |
 
 
-[Google maps list of POI's](https://maps.app.goo.gl/Qb7NLmim2nmnsR4L8)
-![poi](/poi.png "POI's")
+[Google maps list of Target's](https://maps.app.goo.gl/Qb7NLmim2nmnsR4L8)
+![poi](/target.png "Target's")
