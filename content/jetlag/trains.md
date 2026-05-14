@@ -2,6 +2,7 @@
 draft: false
 tags:
 - jetlag
+- CtB
 title: Train info
 weight: 4
 ShowToc: false

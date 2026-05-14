@@ -1,7 +1,8 @@
 ---
 draft: false
 tags:
-- jetlag
+  - jetlag
+  - hide and seek
 title: Map
 weight: 3
 ---
