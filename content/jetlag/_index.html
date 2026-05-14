@@ -34,7 +34,7 @@
 </button>
 
 <style>
-    .poi-button {
+    .target-button {
         padding: 20px 40px;
         font-size: 1.5rem;
         background: linear-gradient(135deg, rgb(190, 81, 9), rgb(197, 108, 31));
@@ -44,17 +44,17 @@
         cursor: pointer;
         transition: background 0.3s;
     }
-    .poi-button:hover {
+    .target-button:hover {
         background: linear-gradient(135deg, rgb(190, 81, 9), rgb(197, 108, 31));
     }
-    .poi-button:active {
+    .target-button:active {
         background: linear-gradient(135deg, rgb(154, 66, 7), rgb(152, 84, 24));
     }
 </style>
 
 <br><br>
 
-<button class="poi-button" onclick="navigateToRandompoi()">
+<button class="target-button" onclick="navigateToRandomtarget()">
     1 New Target
 </button>
 
@@ -68,11 +68,11 @@
 </script>
 
 <script>
-    function navigateToRandompoi() {
+    function navigateToRandomtarget() {
         const max = 2;
         const min = 1;
         const randomNumber = Math.floor(Math.random() * (max - min + 1)) + min;
-        window.location.href = `/poi/${randomNumber}`;
+        window.location.href = `/target/${randomNumber}`;
     }
 </script>
 

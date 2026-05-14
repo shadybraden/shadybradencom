@@ -36,4 +36,4 @@ See [here](/jetlag/rules/#points) for scoring specifics
 
 
 [Google maps list of Target's](https://maps.app.goo.gl/Qb7NLmim2nmnsR4L8)
-![poi](/target.png "Target's")
+![target](/target.png "Target's")
