@@ -6,6 +6,18 @@ TocOpen: false
 
 These are all photos taken by me and shot (mostly) with a [Canon SL2](https://www.usa.canon.com/support/p/eos-rebel-sl2) + [100-400mm lense](https://www.usa.canon.com/support/p/ef-100-400mm-f-4-5-5-6l-is-usm)
 
+# 2026-05-22
+
+## 20260522-AC6D43-N90EM
+
+https://globe.adsbexchange.com/?icao=AC6D43 | RUTAN VariEze
+
+![image](/aircraft/20260522-AC6D43-N90EM-1.jpg)
+![image](/aircraft/20260522-AC6D43-N90EM-2.jpg)
+![image](/aircraft/20260522-AC6D43-N90EM-3.jpg)
+
+---
+
 # 2026-04-21
 
 ## 20260421-A3584A-N31419
