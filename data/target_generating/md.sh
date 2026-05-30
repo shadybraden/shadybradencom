@@ -20,7 +20,7 @@ while IFS= read -r line1; do
     echo "title: 'Target:'" >> "$output_file"
     echo "---" >> "$output_file"
     echo "## ${line1}" >> "$output_file"
-    echo "[Back](/jetlag) " >> "$output_file"
+    echo "[Back](/target_hunter)  " >> "$output_file"
     echo "made ${counter}"
     # Increment the counter
     ((counter++))

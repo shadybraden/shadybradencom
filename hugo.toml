@@ -15,8 +15,8 @@ theme = 'PaperMod'
     weight = 3
 [[menu.main]]
     identifier = "Jetlag"
-    name = "CtB (WIP)"
-    url = "/jetlag/"
+    name = "Target Hunter"
+    url = "/Target_Hunter/"
     weight = 4
 [[menu.main]]
     identifier = "Search"

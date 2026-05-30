@@ -1,7 +1,7 @@
 ---
 title: Hide + Seek Boston
 tags:
-  - jetlag
+  - Target Hunter
   - hide and seek
 ---
 

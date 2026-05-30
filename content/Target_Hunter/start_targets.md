@@ -1,7 +1,7 @@
 ---
 draft: false
 tags:
-- jetlag
+- Target Hunter
 - CtB
 title: Targets for starting the game
 weight: 5

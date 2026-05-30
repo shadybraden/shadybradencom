@@ -21,7 +21,7 @@ while IFS= read -r line1 && IFS= read -r line2; do
     echo "---" >> "$output_file"
     echo "## ${line1}" >> "$output_file"
     echo "## ${line2}" >> "$output_file"
-    echo "[Back](/jetlag) " >> "$output_file"
+    echo "[Back](/target_hunter)  " >> "$output_file"
     # Increment the counter
     ((counter++))
 done < "$input_file"

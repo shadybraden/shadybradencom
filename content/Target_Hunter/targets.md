@@ -1,7 +1,7 @@
 ---
 draft: true
 tags:
-- jetlag
+- Target Hunter
 - CtB
 title: Targets
 weight: 1
@@ -10,7 +10,7 @@ ShowToc: false
 
 You can choose which Target anytime and change that decision anytime
 
-See [here](/jetlag/rules/#points) for scoring specifics
+See [here](/target_hunter/rules/#points) for scoring specifics
 
 ### Boston Targets:
 
