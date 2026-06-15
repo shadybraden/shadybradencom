@@ -25,6 +25,8 @@ Here is a picture of my whole homelab:
 
 # Network UPS Tools (NUT)
 
+EDIT: this is moving to ansible.....its just better.
+
 Battery backup for all the network and homelab things. (Bonus for my desktop too!)
 
 I will be consolidating [Jeff Geerling's blog post on this](https://www.jeffgeerling.com/blog/2025/nut-on-my-pi-so-my-servers-dont-die) into my configs, and my exact steps.
