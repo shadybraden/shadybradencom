@@ -15,17 +15,9 @@ Currently I am using a [docker-based homelab](https://github.com/shadybraden/hom
 
 This site will serve as a place for specific projects and things that need a few more words than the ones in a config file.
 
-Here is a picture of my whole homelab:
-
-![homelab](/homelab.png)
-![wiring](/wiring.jpg)
-![antenna](/antenna.jpg)
-
 ---
 
 # Network UPS Tools (NUT)
-
-EDIT: this is moving to ansible.....its just better.
 
 Battery backup for all the network and homelab things. (Bonus for my desktop too!)
 
@@ -33,14 +25,10 @@ I will be consolidating [Jeff Geerling's blog post on this](https://www.jeffgeer
 
 ## Layout and my devices:
 
-- Shutdown order:
-	- [x] Desktops
-	- [x] Holmie server
-	- [ ] iMessage mac
-	- [ ] pfsense
-	- On dead battery: (no config)
-		- Asus WAP
-		- Network Switch
+- Shutdown order: (defined by ansible groups)
+	- [nut_observer_fast_off]
+	- [nut_observer]
+	- [nut_critical]
 - My UPS model: `CP1500AVRLCD3-R` (purchased 02/28/2025)
 	- `-R` likely means refurbish 
 	- `3` is a later version made. [it is this one](https://www.cyberpowersystems.com/product/ups/intelligent-lcd/cp1500avrlcd3/) 
@@ -48,14 +36,11 @@ I will be consolidating [Jeff Geerling's blog post on this](https://www.jeffgeer
 
 ## Step-by-step
 
-#### NUT server setup `holmie` 
-- Install: `sudo apt install -y nut` and plug UPS into `holmie` then `sudo nut-scanner`
+### NUT server setup
+
+1. Install nut, and run `nut-scanner` to fetch the UPS info. Example:
 
 ```shell
-Scanning USB bus.
-No start IP, skipping NUT bus (old connect method)
-Scanning NUT bus (avahi method).
-Failed to create client: Daemon not running
 [nutdev1]
         driver = "usbhid-ups"
         port = "auto"
@@ -67,68 +52,21 @@ Failed to create client: Daemon not running
         bus = "003"
 ```
 
-- Append the above into `sudo nano /etc/nut/ups.conf` 
+2. Fill in the details found there into the `nut_setup` role's template files
 
-```shell
-[holmie]
-        driver = "usbhid-ups"
-        port = "auto"
-        vendorid = "0764"
-        productid = "0601"
-        product = "CP1500AVRLCD3"
-        serial = "BHPPT7G00027"
-        vendor = "CPS"
-        bus = "003"
-```
+3. Use the role `nut_setup` and point it at a server also in the [nut_critical] group. [My Inventory](https://github.com/shadybraden/IaC/blob/main/inventory) has holmie in the [controller] group, and [nut_critical] group, so it is the ideal choice.
 
-- `sudo nano /etc/nut/upsd.conf` and append `LISTEN 0.0.0.0 3493` 
-- `sudo nano /etc/nut/upsd.users` and make an admin and observer users: (I saved this in my password manager as "NUT UPS server")
+Done! Now that server should stay on till the very end, and only shutdown when the UPS sends a critical message.
 
-```shell
-[admin]
-    password = password
-    actions = set
-    actions = fsd
-    instcmds = all
+### NUT clients
 
-[observer]
-    password = password
-    upsmon secondary
-```
+Similar to the server, see the roles:
 
-- `sudo nano /etc/nut/upsmon.conf` comment out the existing `FINALDELAY` line, and add:
+- `nut_critical`
+- `nut_observer`
+- `nut_observer_fast_off`
 
-```shell
-# Make sure you use your actual admin password...
-MONITOR holmie@localhost 1 admin password primary
-
-# You might also want to configure FINALDELAY and set it to a period long enough
-# for your servers to all shut down, prior to the primary node shutting down and
-# triggering the UPS to switch off its load, e.g. for 3 minutes:
-FINALDELAY 180
-```
-
-- `sudo nano /etc/nut/nut.conf` edit mode from `none` to `netserver` 
-- Restart NUT: `sudo systemctl restart nut-server && sudo systemctl enable nut-server && sudo systemctl restart nut-monitor && sudo systemctl enable nut-monitor` 
-- Done! Testing time:
-	- `upsc holmie` should output a bunch of info
-	- If you have home assistant you should be able to add it via the NUT integration.
-
-#### Any client setup
-
-- I will be using `shady` as the server I am setting this up on. The process should be identical for additional clients.
-- `sudo apt install nut-client -y` then `upsc holmie@192.168.50.65` to verify connection
-- `sudo nano /etc/nut/upsmon.conf` add `MONITOR holmie@192.168.50.65 1 observer password slave`
-- `sudo nano /etc/nut/nut.conf` and edit `MODE` from `none` to `netclient` > `MODE=netclient` 
-- Now this server will monitor wait for a `fsd` command from the NUT-server.
-- This setup will shutdown everything right before the battery dies. If this is not desired, **keep reading.**
-
----
-
-We will be using two scripts for this. One where devices shutdown at 90% battery, and another at 50%.
-
-The scripts are here:
-
-[90%](https://github.com/shadybraden/compose/blob/main/nut/nut.sh) | [50%](https://github.com/shadybraden/compose/blob/main/nut/quicknut.sh)
-
-Simply `sudo chmod 700 nut.sh` then `sudo su` then `crontab -e` then append: `*/5 * * * * /path/to/script/nut.sh`
+These do what you would expect:
+- `nut_critical` wait for the critical message (`actions = fsd`) from the nut server
+- `nut_observer` shuts down with 75% battery left.
+- `nut_observer_fast_off` shuts down at 90% battery left.
