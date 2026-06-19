@@ -27,4 +27,4 @@ ShowToc: true
 			- 2 Peter 3:16 - Peter verifies Paul
 			- 1 Timothy 5:17–18 - Paul references Luke
 		- The rest, and these, were methodically reviewed.
-			- "In A.D. 367 the Thirty-ninth Paschal Letter of Athanasius contained an exact list of the twenty-seven New Testament books we have today." - Wayne Grutem, Systematic Theology
+			- "In A.D. 367 the Thirty-ninth Paschal Letter of Athanasius contained an exact list of the twenty-seven New Testament books we have today." - Wayne Grudem, Systematic Theology
