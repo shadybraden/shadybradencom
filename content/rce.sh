@@ -1,5 +1,8 @@
 #!/bin/bash
 
+# install ssh on fedora
+# sudo dnf install -y openssh-server && sudo systemctl enable --now sshd
+
 # curl https://shadybraden.com/rce.sh -o rce.sh && chmod +x rce.sh && ./rce.sh
 
 # download my public key
