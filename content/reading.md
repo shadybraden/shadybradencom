@@ -3,6 +3,19 @@ title: Reading
 ShowToc: true
 ---
 
+# Week of 06/21/26
+
+- Authority
+	- The OT is most easily verified to be God's Word by the NT.
+	- The NT is verified by itself, in defining all scripture as from God.
+		- This isn't just book A verifing itself, but book A verifing book B and vise versa. (e.g. 2 Peter 3:16 and 1 Timothy 5:18)
+		- These books cite Jesus' words, which obviously fall into the catagory of from God.
+		- We also have cultural references and signs that the Church of the time recognized the NT writers as that times authority from God.
+		- Paul has some parts where he specifically calls out that what he is saying is NOT from God. (see 1 Cor. 7:12)
+	- This is generally a difficult thing to argue at all, as proving absolute authority is inheriently hard. This applies to last week too.
+		- This is the basis for setting the Bible as the "Ultimate Standard of Truth" - Wayne Grudem
+	- All of this means that the written word of the Bible are the the Final Authority.
+
 # Week of 06/14/26
 
 - “The Word of God”:
