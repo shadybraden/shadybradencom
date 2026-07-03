@@ -3,6 +3,20 @@ title: Reading
 ShowToc: true
 ---
 
+# Week of 06/28/26
+
+- The Clarity of the Bible
+	- The Bible has parts that are very clear, and parts less-so
+	- We are commanded multiple times to study the Bible, and understand it
+	- The Bible itself verifies its own clarity, in agreeing with itself
+	- For those not willing to hear and "recieve" the Bible's teachings, the Bible will be difficult, if not impossible to understand
+	- Why do we misunderstand then?
+		- Scope: often, lacking scope, or perspective, leads to misunderstanding
+		- The Bible doesn't specifically address the topic, so we draw conclutions from elsewhere, and try to fill in gaps left intentionally by God
+	- No matter what, All Scripture is able to be understood
+	- Just because people have been arguing about things for centuries, doesn't mean we don't have the answer in front of us
+	- Don't just hand the hard searching for answers to scholars, do it ourselves
+
 # Week of 06/21/26
 
 - Authority
