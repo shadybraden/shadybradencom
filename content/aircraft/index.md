@@ -6,6 +6,30 @@ TocOpen: false
 
 These are all photos taken by me and shot (mostly) with a [Canon SL2](https://www.usa.canon.com/support/p/eos-rebel-sl2) + [100-400mm lense](https://www.usa.canon.com/support/p/ef-100-400mm-f-4-5-5-6l-is-usm)
 
+# 2025-05-24
+
+## Four Leaf Airshow 2026
+
+[🔗Temporary full-res files🔗](https://files.shadybraden.com/public/share/3DzcP5myhA3dpXl5jzrrdw)
+
+![image](/aircraft/FourLeaf-2026-7.jpg)
+![image](/aircraft/FourLeaf-2026-5.jpg)
+![image](/aircraft/FourLeaf-2026-1.jpg)
+![image](/aircraft/FourLeaf-2026-2.jpg)
+![image](/aircraft/FourLeaf-2026-3.jpg)
+![image](/aircraft/FourLeaf-2026-4.jpg)
+![image](/aircraft/FourLeaf-2026-6.jpg)
+![image](/aircraft/FourLeaf-2026-8.jpg)
+![image](/aircraft/FourLeaf-2026-9.jpg)
+![image](/aircraft/FourLeaf-2026-10.jpg)
+![image](/aircraft/FourLeaf-2026-11.jpg)
+![image](/aircraft/FourLeaf-2026-15.jpg)
+![image](/aircraft/FourLeaf-2026-12.jpg)
+![image](/aircraft/FourLeaf-2026-16.jpg)
+![image](/aircraft/FourLeaf-2026-17.jpg)
+![image](/aircraft/FourLeaf-2026-13.jpg)
+![image](/aircraft/FourLeaf-2026-14.jpg)
+
 # 2026-05-22
 
 ## 20260522-AC6D43-N90EM
