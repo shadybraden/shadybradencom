@@ -3,6 +3,20 @@ title: Reading
 ShowToc: true
 ---
 
+# Week of 7/5/26
+
+- Knowledge about God apart from the Bible
+	- we can have a thriving spiritual life through the Bible, but the Bible is not needed to know God is real, or to know some about his attributes 
+	- many passages suggest that salvation comes through belief, which comes through hearing the gospel, but what about people who lived before Jesus? 
+		- they relied on the future promise of the gospel 
+	- without the Bible it is impossible to accurately know the will of God 
+		- one can use logic and our consciouses, but that will not be fully accurate. 
+		- this can follow not just to knowledge about God, but about all. 
+			- all Truth needs an anchor. 
+			- we either are to discover all science has to offer, (like ALL, with perfect accuracy) or we trust the One who made it all (with zero risk to science, as science will always match what was made)
+	- moral laws can also be deduced without the Bible
+		- this will be imperfect, as mentioned above, but is a good guide. 
+
 # Week of 06/28/26
 
 - The Clarity of the Bible
