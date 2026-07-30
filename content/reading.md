@@ -3,6 +3,24 @@ title: Reading
 ShowToc: true
 ---
 
+# Week of 07/26/26
+
+- Sufficiency of Scripture
+	- The Bible contains everything needed for salvation and sanctification.
+	- God has graciously given us exactly enough to belive and grow.
+	- We can use systematic theology to find out what God intended us to know in many areas.
+		- "Simply stated, the doctrine of the sufficiency of Scripture tells us that it is possible to study systematic theology and ethics and find answers to our questions." - Wayne Grudem, Systematic Theology
+		- This is a major difference in theology from Catholics.
+- The Attributes of God, and their catagories
+	- Attributes we don't share with God.
+	- Attributes we do share with God.
+	- Attributes we partially share with God.
+	- These are more of a spectrum than hard catagories.
+- The Trinity
+	- https://youtu.be/KQLfgaUoQCw
+	- The afore mentioned attributes of God don't simply apply to God the Father, but to the Trinity.
+	- The differences between the three persons of the Trinity are more of differences in function than person.
+
 # Week of 7/5/26
 
 - Knowledge about God apart from the Bible
