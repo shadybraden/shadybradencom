@@ -6,6 +6,18 @@ TocOpen: false
 
 These are all photos taken by me and shot (mostly) with a [Canon SL2](https://www.usa.canon.com/support/p/eos-rebel-sl2) + [100-400mm lense](https://www.usa.canon.com/support/p/ef-100-400mm-f-4-5-5-6l-is-usm)
 
+# 2026-08-11
+
+## 20260811-AE63B3-19-46071
+
+https://globe.adsbexchange.com/?icao=AE63B3 | BOEING 767-200 Pegasus
+
+Callsign SABRE46
+
+![image](/aircraft/20260811-AE63B3-19-46071.jpg)
+
+---
+
 # 2025-05-24
 
 ## Four Leaf Airshow 2026
