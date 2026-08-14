@@ -6,6 +6,22 @@ TocOpen: false
 
 These are all photos taken by me and shot (mostly) with a [Canon SL2](https://www.usa.canon.com/support/p/eos-rebel-sl2) + [100-400mm lense](https://www.usa.canon.com/support/p/ef-100-400mm-f-4-5-5-6l-is-usm)
 
+# 2026-08-14
+
+## 20260814-A2477A-N246NE
+
+https://globe.adsbexchange.com/?icao=A2477A | 2023 AIRBUS HELICOPTERS EC-145
+
+![image](/aircraft/20260814-A2477A-N246NE.jpg)
+
+## 20260814-AE08FA-84-24377
+
+https://globe.adsbexchange.com/?icao=AE08FA | BEECH 200 Super King Air
+
+![image](/aircraft/20260814-AE08FA-84-24377.jpg)
+
+---
+
 # 2026-08-11
 
 ## 20260811-AE63B3-19-46071
