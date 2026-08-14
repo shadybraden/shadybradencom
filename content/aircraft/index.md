@@ -8,6 +8,18 @@ These are all photos taken by me and shot (mostly) with a [Canon SL2](https://ww
 
 # 2026-08-14
 
+## 20260814-A0B674-N145NE
+
+https://globe.adsbexchange.com/?icao=A0B674 | 2016 AIRBUS HELICOPTERS EC-145 MEDFLIGHT
+
+![image](/aircraft/20260814-A0B674-N145NE.jpg)
+
+## 20260814-A80A7C-N617TV
+
+https://globe.adsbexchange.com/?icao=A80A7C | AEROSPATIALE AS-350 Ecureuil
+
+![image](/aircraft/20260814-A80A7C-N617TV.jpg)
+
 ## 20260814-A2477A-N246NE
 
 https://globe.adsbexchange.com/?icao=A2477A | 2023 AIRBUS HELICOPTERS EC-145
