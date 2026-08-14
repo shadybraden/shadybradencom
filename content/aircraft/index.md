@@ -13,6 +13,7 @@ These are all photos taken by me and shot (mostly) with a [Canon SL2](https://ww
 https://globe.adsbexchange.com/?icao=A0B674 | 2016 AIRBUS HELICOPTERS EC-145 MEDFLIGHT
 
 ![image](/aircraft/20260814-A0B674-N145NE.jpg)
+![image](/aircraft/20260814-A0B674-N145NE-2.jpg)
 
 ## 20260814-A80A7C-N617TV
 
