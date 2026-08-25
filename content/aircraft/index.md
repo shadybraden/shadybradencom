@@ -6,6 +6,16 @@ TocOpen: false
 
 These are all photos taken by me and shot (mostly) with a [Canon SL2](https://www.usa.canon.com/support/p/eos-rebel-sl2) + [100-400mm lense](https://www.usa.canon.com/support/p/ef-100-400mm-f-4-5-5-6l-is-usm)
 
+# 2026-08-25
+
+## 20260825-3E826F-54+15
+
+https://globe.adsbexchange.com/?icao=3E826F | AIRBUS A-400M
+
+![image](/aircraft/20260825-3E826F-54+15.jpg)
+
+---
+
 # 2026-08-14
 
 ## 20260814-A0B674-N145NE
