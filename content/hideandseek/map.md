@@ -21,7 +21,7 @@ However, just so you don't loose progress, maybe have multiple people do the map
 Or:
 
 - Copy below
-- Go to [Map Splitting Site](https://taibeled.github.io/JetLagHideAndSeek)
+- Go to [Map Splitting Site](https://jetlag.shadybraden.com)
 - press `Options`>`Paste Hiding Zone` 
 
 ```json
