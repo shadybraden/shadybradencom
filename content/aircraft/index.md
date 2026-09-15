@@ -6,6 +6,16 @@ TocOpen: false
 
 These are all photos taken by me and shot (mostly) with a [Canon SL2](https://www.usa.canon.com/support/p/eos-rebel-sl2) + [100-400mm lense](https://www.usa.canon.com/support/p/ef-100-400mm-f-4-5-5-6l-is-usm)
 
+# 2026-09-15
+
+## 20260915-AFE1BC-NA
+
+https://globe.adsbexchange.com/?icao=AFE1BC | BOEING E-6 Mercury
+
+![image](/aircraft/20260915-AFE1BC-NA.jpg)
+
+---
+
 # 2026-08-26
 
 ## 20260826-AE0654-58-0071
