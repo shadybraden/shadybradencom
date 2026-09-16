@@ -6,6 +6,16 @@ TocOpen: false
 
 These are all photos taken by me and shot (mostly) with a [Canon SL2](https://www.usa.canon.com/support/p/eos-rebel-sl2) + [100-400mm lense](https://www.usa.canon.com/support/p/ef-100-400mm-f-4-5-5-6l-is-usm)
 
+# 2026-09-16
+
+## 20260916-A03C06-NA
+
+https://globe.adsbexchange.com/?icao=A03C06 | Unknown PIA Callsign - XAA4362
+
+![image](/aircraft/20260916-A03C06-NA.jpg)
+
+---
+
 # 2026-09-15
 
 ## 20260915-AFE1BC-NA
