@@ -11,7 +11,7 @@ theme = 'PaperMod'
 [[menu.main]]
     identifier = "Services"
     name = "Services"
-    url = "https://services.shadybraden.com"
+    url = "https://services.maul.shadybraden.com"
     weight = 3
 [[menu.main]]
     identifier = "Aircraft"
