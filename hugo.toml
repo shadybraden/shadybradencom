@@ -9,20 +9,25 @@ theme = 'PaperMod'
     url = "/articles/"
     weight = 2
 [[menu.main]]
+    identifier = "Services"
+    name = "Services"
+    url = "https://services.shadybraden.com"
+    weight = 3
+[[menu.main]]
     identifier = "Aircraft"
     name = "Aircraft"
     url = "/Aircraft/"
-    weight = 3
-[[menu.main]]
-    identifier = "Jetlag"
-    name = "Target Hunter"
-    url = "/Target_Hunter/"
     weight = 4
 [[menu.main]]
-    identifier = "Search"
-    name = "Search"
-    url = "/Search/"
+    identifier = "Jetlag"
+    name = "Games"
+    url = "/Target_Hunter/"
     weight = 5
+[[menu.main]]
+    identifier = "Search"
+    name = "🔎"
+    url = "/Search/"
+    weight = 6
 
 [params.homeInfoParams]
     Title = "Welcome to my open source website"
