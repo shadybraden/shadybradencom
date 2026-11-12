@@ -62,21 +62,15 @@ jobs:
             echo "version=$NEW_VERSION" >> $GITHUB_OUTPUT
           fi
 
-      - name: Set up QEMU binfmt for multi-arch
-        run: |
-          podman --storage-driver vfs run --rm --privileged multiarch/qemu-user-static --reset -p yes
-
-      - name: Build multi-arch image
+      - name: Build image
         run: |
           podman --storage-driver vfs build \
-            --platform linux/amd64,linux/arm64 \
             -f Dockerfile \
             -t shadybradencom:${{ steps.version.outputs.version }} .
 
-      - name: Push multi-arch image
+      - name: Push image
         run: |
           buildah --storage-driver vfs push \
-            --all \
             --creds "${{ secrets.REGISTRY_USERNAME }}:${{ secrets.REGISTRY_PASSWORD }}" \
             shadybradencom:${{ steps.version.outputs.version }} \
             docker://git.holmlab.org/shady/shadybradencom:${{ steps.version.outputs.version }}
