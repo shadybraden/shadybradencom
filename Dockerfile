@@ -10,7 +10,7 @@ COPY . .
 
 RUN hugo build --minify --environment production --destination /output
 
-FROM docker.io/nginxinc/nginx-unprivileged:${NGINX_VERSION}-alpine
+FROM docker.io/nginxinc/nginx-unprivileged:${NGINX_VERSION}
 
 COPY default.conf /etc/nginx/conf.d/default.conf
 COPY --from=builder --chown=101:101 /output /usr/share/nginx/html
