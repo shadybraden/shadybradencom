@@ -1,5 +1,9 @@
 name: Build shadybradencom image
 
+concurrency:
+  group: maul-deploy
+  cancel-in-progress: false
+
 on:
   push:
     branches: [main]
