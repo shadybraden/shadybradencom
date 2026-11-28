@@ -1,7 +1,7 @@
 # renovate: datasource=docker depName=hugomods/hugo
 ARG HUGO_VERSION=0.165.0
 # renovate: datasource=docker depName=nginx
-ARG NGINX_VERSION=1.31.8
+ARG NGINX_VERSION=1.31.10
 
 FROM docker.io/hugomods/hugo:${HUGO_VERSION} AS builder
 
